@@ -1,0 +1,5347 @@
+xml_id	midi_id	track	channel	pitch	onset
+None	deletion
+None	deletion
+None	5	0	0	29	0.5208328125000001
+None	155	0	0	29	13.529633906250009
+None	953	0	0	29	93.93152999999667
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	139	0	0	31	12.414517500000013
+None	140	0	0	31	12.684282187500012
+None	149	0	0	31	13.22781796875001
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	147	0	0	33	13.11430312500001
+None	957	0	0	33	94.3455253124966
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	54	0	0	36	5.409983906249998
+None	145	0	0	36	12.84053203125001
+None	592	0	0	36	57.282261093748744
+None	619	0	0	36	59.768903906248674
+None	790	0	0	36	79.35889499999784
+None	928	0	0	36	91.43553890624699
+None	963	0	0	36	94.75818515624655
+None	1472	0	0	36	149.85294843749287
+None	1523	0	0	36	153.48141703124253
+None	1629	0	0	36	163.73514609374152
+None	1690	0	0	36	168.9755254687409
+None	2397	0	0	36	257.513097187484
+None	2401	0	0	36	257.6933854687341
+None	2403	0	0	36	258.4559381249845
+None	2406	0	0	36	258.64958109373464
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	51	0	0	37	5.0106787499999985
+None	52	0	0	37	5.307152812499998
+None	580	0	0	37	55.65165374999889
+None	611	0	0	37	58.91954578124871
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	37	0	0	38	3.7833829687499994
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	31	0	0	39	3.3974325
+None	36	0	0	39	3.733970624999999
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	20	0	0	40	2.18616234375
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	2	0	0	41	0.5114845312500002
+None	6	0	0	41	0.6063028125000002
+None	9	0	0	41	0.9735567187500003
+None	17	0	0	41	1.8175729687500004
+None	19	0	0	41	2.1233953125
+None	151	0	0	41	13.518950156250009
+None	366	0	0	41	31.29938109374998
+None	954	0	0	41	94.07041874999665
+None	1619	0	0	41	162.93386484374162
+None	1639	0	0	41	164.42157703124147
+None	1658	0	0	41	165.93466312499132
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	124	0	0	42	11.611900781250014
+None	129	0	0	42	11.900362031250014
+None	deletion
+None	deletion
+None	118	0	0	43	11.185886250000017
+None	131	0	0	43	12.011205937500014
+None	138	0	0	43	12.422530312500012
+None	141	0	0	43	12.70030781250001
+None	150	0	0	43	13.25185640625001
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	116	0	0	44	11.088397031250018
+None	deletion
+None	deletion
+None	deletion
+None	111	0	0	45	10.801271250000019
+None	146	0	0	45	13.11029671875001
+None	297	0	0	45	26.414236406249984
+None	833	0	0	45	84.15856968749762
+None	844	0	0	45	85.07336578124756
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	105	0	0	46	10.37659218750002
+None	834	0	0	46	84.27475546874761
+None	838	0	0	46	84.69275718749759
+None	2327	0	0	46	247.57320328123396
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	823	0	0	47	83.26514109374767
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	100	0	0	48	8.712598125000007
+None	144	0	0	48	12.83251921875001
+None	326	0	0	48	28.417439531249986
+None	685	0	0	48	71.0736468749984
+None	700	0	0	48	73.55361234374817
+None	710	0	0	48	74.31750046874816
+None	762	0	0	48	77.18875828124793
+None	791	0	0	48	79.35755953124784
+None	826	0	0	48	83.45744859374766
+None	831	0	0	48	83.90215968749763
+None	898	0	0	48	89.54451515624714
+None	925	0	0	48	91.14841312499699
+None	927	0	0	48	91.43954531249699
+None	966	0	0	48	94.86635812499655
+None	1066	0	0	48	102.6775148437462
+None	1556	0	0	48	157.65342140624216
+None	1561	0	0	48	158.09145515624215
+None	1579	0	0	48	159.70603687499198
+None	1591	0	0	48	160.50197624999194
+None	1628	0	0	48	163.73247515624152
+None	1794	0	0	48	176.9442674999902
+None	1820	0	0	48	178.58021671874005
+None	2104	0	0	48	221.93888062498647
+None	2272	0	0	48	239.70862781248462
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	820	0	0	50	83.01273749999767
+None	1208	0	0	50	116.36606953124567
+None	2238	0	0	50	237.6613542187349
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	1365	0	0	51	135.13474734374404
+None	2230	0	0	51	237.116482968735
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	97	0	0	52	9.541924218750008
+None	104	0	0	52	10.37525671875002
+None	249	0	0	52	22.812477187499997
+None	813	0	0	52	82.4304731249977
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	13	0	0	53	1.4035776562500004
+None	94	0	0	53	9.440428593750008
+None	99	0	0	53	9.957255000000012
+None	109	0	0	53	10.79860031250002
+None	325	0	0	53	28.405420312499984
+None	362	0	0	53	30.893398593749982
+None	363	0	0	53	31.185866249999982
+None	474	0	0	53	42.760373906249626
+None	814	0	0	53	82.5640199999977
+None	910	0	0	53	90.21759140624707
+None	1204	0	0	53	115.98278999999569
+None	1347	0	0	53	133.4573985937442
+None	1371	0	0	53	135.57011015624397
+None	1638	0	0	53	164.41623515624147
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	115	0	0	54	11.080384218750018
+None	122	0	0	54	11.611900781250014
+None	126	0	0	54	11.889678281250013
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	93	0	0	55	9.150631875000009
+None	117	0	0	55	11.184550781250017
+None	132	0	0	55	12.021889687500012
+None	331	0	0	55	28.88485359374999
+None	505	0	0	55	46.61453671874938
+None	1197	0	0	55	115.5995104687457
+None	1235	0	0	55	119.95046765624534
+None	1239	0	0	55	120.3724757812453
+None	1338	0	0	55	132.64543359374426
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	0	0	0	57	0.5074781250000001
+None	7	0	0	57	0.6129801562500002
+None	152	0	0	57	13.518950156250009
+None	324	0	0	57	28.393401093749983
+None	329	0	0	57	28.496232187499984
+None	383	0	0	57	33.75263718749991
+None	437	0	0	57	39.14659546874974
+None	816	0	0	57	82.89120984374767
+None	915	0	0	57	90.63826406249704
+None	996	0	0	57	96.84552281249643
+None	1002	0	0	57	97.77233812499642
+None	1119	0	0	57	107.42510624999608
+None	1153	0	0	57	110.77446187499586
+None	1163	0	0	57	112.38236624999581
+None	1175	0	0	57	113.26244015624579
+None	1642	0	0	57	164.83423687499143
+None	1865	0	0	57	186.2805295312393
+None	1905	0	0	57	191.97363281248897
+None	1943	0	0	57	196.90418343748865
+None	1954	0	0	57	200.1774173437383
+None	1980	0	0	57	203.78184749998792
+None	2194	0	0	57	235.2855553124853
+None	2206	0	0	57	235.9145610937352
+None	2221	0	0	57	236.68245562498507
+None	2293	0	0	57	242.84831484373436
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	918	0	0	58	90.74643703124703
+None	991	0	0	58	96.69862124999642
+None	1007	0	0	58	98.76592687499641
+None	1009	0	0	58	99.08376843749636
+None	1329	0	0	58	131.49425953124432
+None	1342	0	0	58	132.74559374999424
+None	1941	0	0	58	196.71855328123866
+None	2199	0	0	58	235.51258499998525
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	137	0	0	59	12.419859375000012
+None	142	0	0	59	12.71232703125001
+None	922	0	0	59	91.03356281249701
+None	1783	0	0	59	176.53694953124023
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	3	0	0	60	0.5114845312500002
+None	8	0	0	60	0.6116446875000002
+None	77	0	0	60	5.95218421875
+None	103	0	0	60	9.962596875000012
+None	107	0	0	60	10.39662421875002
+None	110	0	0	60	10.801271250000019
+None	114	0	0	60	11.080384218750018
+None	119	0	0	60	11.188557187500017
+None	123	0	0	60	11.610565312500015
+None	130	0	0	60	11.928406875000013
+None	133	0	0	60	12.029902500000013
+None	148	0	0	60	12.82851281250001
+None	154	0	0	60	13.522956562500008
+None	161	0	0	60	13.631129531250007
+None	229	0	0	60	19.13860265625
+None	357	0	0	60	30.08543999999998
+None	359	0	0	60	30.77854828124998
+None	786	0	0	60	79.00633124999786
+None	853	0	0	60	85.82657015624753
+None	856	0	0	60	85.89467906249752
+None	924	0	0	60	91.14574218749699
+None	1033	0	0	60	100.34044453124629
+None	1366	0	0	60	135.13741828124404
+None	1755	0	0	60	174.6005198437404
+None	1760	0	0	60	174.68866078124037
+None	1766	0	0	60	175.10132062499034
+None	1767	0	0	60	175.32300843749033
+None	1775	0	0	60	175.86787968749027
+None	1777	0	0	60	176.15366999999026
+None	1780	0	0	60	176.24448187499024
+None	1804	0	0	60	177.73219406249012
+None	1807	0	0	60	177.8350251562401
+None	2058	0	0	60	214.59513796873725
+None	2153	0	0	60	229.25457843748592
+None	2157	0	0	60	229.69394765623585
+None	2170	0	0	60	231.84405234373557
+None	2193	0	0	60	235.2842198437353
+None	2264	0	0	60	238.76178046873474
+None	2366	0	0	60	252.10979062498353
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	45	0	0	61	4.6140445312499985
+None	90	0	0	61	8.592405937500008
+None	95	0	0	61	9.15864468750001
+None	247	0	0	61	22.3958109375
+None	386	0	0	61	33.87683578124991
+None	502	0	0	61	46.31138531249942
+None	2017	0	0	61	209.04359437498752
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	39	0	0	62	4.237442343749999
+None	43	0	0	62	4.540593749999998
+None	86	0	0	62	8.32931859375001
+None	125	0	0	62	11.605223437500015
+None	128	0	0	62	11.892349218750013
+None	136	0	0	62	12.413182031250013
+None	194	0	0	62	17.67759984375001
+None	425	0	0	62	38.35733343749977
+None	523	0	0	62	48.688519687499266
+None	534	0	0	62	50.026659374999205
+None	1020	0	0	62	99.57789187499631
+None	1164	0	0	62	112.45047515624582
+None	1225	0	0	62	118.37862093749553
+None	1269	0	0	62	123.83801718749503
+None	1348	0	0	62	133.4427084374942
+None	1733	0	0	62	173.08476281249054
+None	1774	0	0	62	175.7583712499903
+None	1971	0	0	62	202.725491718738
+None	2000	0	0	62	206.54760328123768
+None	2062	0	0	62	215.64348093748708
+None	2187	0	0	62	234.5537184374854
+None	2196	0	0	62	235.50056578123525
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	27	0	0	63	2.9994628124999996
+None	84	0	0	63	8.237171250000012
+None	121	0	0	63	11.481024843750015
+None	135	0	0	63	12.305009062500012
+None	1358	0	0	63	134.4216070312441
+None	1368	0	0	63	135.24024937499402
+None	1386	0	0	63	138.16759687499373
+None	1726	0	0	63	172.09250953124055
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	22	0	0	64	2.6135123437499996
+None	26	0	0	64	2.92868296875
+None	62	0	0	64	6.382205156250006
+None	81	0	0	64	7.95405187500001
+None	92	0	0	64	8.697907968750007
+None	120	0	0	64	11.189892656250017
+None	134	0	0	64	12.016547812500013
+None	177	0	0	64	16.025625000000012
+None	233	0	0	64	21.13646390625
+None	244	0	0	64	21.917713124999995
+None	271	0	0	64	24.489825937499997
+None	285	0	0	64	25.328500312499983
+None	389	0	0	64	34.70081999999988
+None	412	0	0	64	36.6906684374998
+None	504	0	0	64	46.60251749999938
+None	509	0	0	64	47.00716453124934
+None	525	0	0	64	49.08515390624923
+None	532	0	0	64	49.21736531249922
+None	1125	0	0	64	108.363940781246
+None	1260	0	0	64	122.87514421874506
+None	1789	0	0	64	176.6651545312402
+None	2029	0	0	64	210.69957562498738
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	4	0	0	65	0.5315165625000001
+None	14	0	0	65	1.4276160937500004
+None	15	0	0	65	1.7294320312500004
+None	42	0	0	65	3.816769687499999
+None	58	0	0	65	6.271361250000004
+None	64	0	0	65	6.797535937500009
+None	78	0	0	65	7.86190453125001
+None	87	0	0	65	8.334660468750009
+None	89	0	0	65	8.588399531250008
+None	112	0	0	65	10.79325843750002
+None	156	0	0	65	13.53764671875001
+None	208	0	0	65	19.453773281250005
+None	406	0	0	65	36.31273078124981
+None	494	0	0	65	44.94520078124947
+None	515	0	0	65	47.426501718749314
+None	519	0	0	65	47.5774096874993
+None	521	0	0	65	48.685848749999266
+None	533	0	0	65	50.01063374999921
+None	787	0	0	65	79.11316874999785
+None	1005	0	0	65	98.76459140624641
+None	1057	0	0	65	102.27687421874622
+None	1141	0	0	65	109.95982593749589
+None	1258	0	0	65	122.60137312499508
+None	1319	0	0	65	130.28031843749443
+None	1335	0	0	65	132.30755999999425
+None	1374	0	0	65	136.61578218749386
+None	1395	0	0	65	139.8943579687437
+None	1659	0	0	65	166.1296415624913
+None	1724	0	0	65	172.09651593749055
+None	1734	0	0	65	173.08743374999054
+None	1738	0	0	65	173.49341624999047
+None	1771	0	0	65	175.4512134374903
+None	1831	0	0	65	179.86360218749002
+None	1835	0	0	65	181.1389748437399
+None	1883	0	0	65	188.65499296873912
+None	1945	0	0	65	197.34355265623864
+None	1946	0	0	65	197.7094710937386
+None	1962	0	0	65	199.49766374998836
+None	1989	0	0	65	201.51689249998816
+None	2060	0	0	65	215.21613093748715
+None	2179	0	0	65	233.19688218748547
+None	2308	0	0	65	245.0785476562342
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	29	0	0	66	3.0315140624999994
+None	108	0	0	66	10.68107906250002
+None	180	0	0	66	16.12845609375001
+None	1275	0	0	66	124.97450109374493
+None	1384	0	0	66	138.27042796874372
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	23	0	0	67	2.2275618749999997
+None	57	0	0	67	5.938829531250001
+None	71	0	0	67	7.46660578125001
+None	80	0	0	67	7.94737453125001
+None	82	0	0	67	8.214468281250012
+None	98	0	0	67	9.842404687500013
+None	106	0	0	67	10.36724390625002
+None	143	0	0	67	12.706985156250012
+None	175	0	0	67	15.276427031250012
+None	293	0	0	67	26.028285937499984
+None	401	0	0	67	36.20589328124982
+None	411	0	0	67	36.6920039062498
+None	508	0	0	67	47.01250640624934
+None	512	0	0	67	47.154066093749336
+None	782	0	0	67	78.79532718749789
+None	865	0	0	67	86.88159046874745
+None	987	0	0	67	96.39012796874644
+None	1059	0	0	67	102.3623442187462
+None	1087	0	0	67	103.95956484374614
+None	1259	0	0	67	122.87113781249506
+None	1304	0	0	67	128.22636749999467
+None	1653	0	0	67	165.35373421874138
+None	1714	0	0	67	170.65153874999064
+None	1788	0	0	67	176.6384451562402
+None	1816	0	0	67	178.23566578124007
+None	1877	0	0	67	187.80162843748914
+None	1884	0	0	67	188.87267437498912
+None	1888	0	0	67	189.3067017187391
+None	1950	0	0	67	199.2385828124884
+None	1991	0	0	67	205.25620499998774
+None	1998	0	0	67	206.3312573437377
+None	2002	0	0	67	206.77463296873765
+None	2030	0	0	67	210.91191515623737
+None	2169	0	0	67	231.6170226562356
+None	2268	0	0	67	239.0635964062347
+None	2338	0	0	67	250.13863874998373
+None	2360	0	0	67	252.99654187498345
+None	2369	0	0	67	253.7283787499834
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	906	0	0	68	89.97453609374708
+None	2355	0	0	68	252.76951218748349
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	1	0	0	69	0.5114845312500002
+None	11	0	0	69	0.6116446875000002
+None	16	0	0	69	1.8135665625000004
+None	30	0	0	69	3.3253171875
+None	33	0	0	69	3.7126031249999993
+None	67	0	0	69	7.069971562500009
+None	75	0	0	69	7.5814560937500115
+None	101	0	0	69	9.962596875000012
+None	127	0	0	69	11.888342812500014
+None	153	0	0	69	13.517614687500009
+None	182	0	0	69	16.432942968750012
+None	218	0	0	69	20.233687031250007
+None	227	0	0	69	20.758526250000003
+None	278	0	0	69	25.19495343749999
+None	403	0	0	69	36.31406624999981
+None	775	0	0	69	78.12759281249791
+None	867	0	0	69	87.05653687499745
+None	873	0	0	69	87.4598484374974
+None	919	0	0	69	90.34312546874706
+None	933	0	0	69	91.76807062499694
+None	936	0	0	69	92.42645671874685
+None	939	0	0	69	92.8297682812468
+None	1054	0	0	69	101.99108390624623
+None	1107	0	0	69	105.4005356249961
+None	1139	0	0	69	109.9571549999959
+None	1257	0	0	69	122.59068937499508
+None	1647	0	0	69	164.55245296874145
+None	1661	0	0	69	165.9653789062413
+None	1663	0	0	69	166.6277714062412
+None	1666	0	0	69	167.03642484374114
+None	1707	0	0	69	169.83957374999076
+None	1751	0	0	69	174.2800073437404
+None	1778	0	0	69	176.15634093749026
+None	1809	0	0	69	177.8363606249901
+None	2165	0	0	69	230.9933587499857
+None	2299	0	0	69	243.64826062498426
+None	2311	0	0	69	245.25750046873418
+None	2347	0	0	69	251.71449187498357
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	41	0	0	70	3.810092343749999
+None	48	0	0	70	4.926544218749999
+None	70	0	0	70	7.192834687500008
+None	88	0	0	70	8.585728593750009
+None	91	0	0	70	8.688559687500007
+None	96	0	0	70	9.142619062500009
+None	400	0	0	70	36.19788046874982
+None	511	0	0	70	47.13002765624934
+None	548	0	0	70	51.74941406249909
+None	652	0	0	70	64.71414468749853
+None	741	0	0	70	75.96813984374802
+None	770	0	0	70	77.92059515624791
+None	794	0	0	70	79.34153390624785
+None	866	0	0	70	86.86957124999745
+None	869	0	0	70	87.37972031249741
+None	874	0	0	70	87.74697421874735
+None	1037	0	0	70	100.76245265624627
+None	1135	0	0	70	109.84898203124591
+None	1245	0	0	70	120.89464406249525
+None	1362	0	0	70	134.72342296874407
+None	1477	0	0	70	150.07330078124284
+None	1604	0	0	70	161.91757312499175
+None	1636	0	0	70	164.14513499999148
+None	1698	0	0	70	169.41222374999083
+None	1731	0	0	70	173.08209187499054
+None	1735	0	0	70	173.3839078124905
+None	1881	0	0	70	188.20894640623914
+None	1889	0	0	70	189.5083574999891
+None	1988	0	0	70	204.8275195312378
+None	1995	0	0	70	205.67687765623776
+None	2003	0	0	70	206.96426953123765
+None	2005	0	0	70	207.37025203123764
+None	2043	0	0	70	212.5198195312373
+None	2049	0	0	70	213.33712640623727
+None	2074	0	0	70	217.74417328123687
+None	2255	0	0	70	238.48934484373478
+None	2312	0	0	70	245.45247890623415
+None	2330	0	0	70	248.31973031248396
+None	2353	0	0	70	252.11646796873353
+None	2362	0	0	70	252.96181968748346
+None	2367	0	0	70	253.7016693749834
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	25	0	0	71	2.91532828125
+None	85	0	0	71	8.31462843750001
+None	178	0	0	71	16.005592968750012
+None	237	0	0	71	21.521078906249997
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	24	0	0	72	2.6188542187499997
+None	28	0	0	72	3.0194948437499995
+None	32	0	0	72	3.4014389062499997
+None	34	0	0	72	3.7126031249999993
+None	66	0	0	72	6.800206875000009
+None	73	0	0	72	7.577449687500011
+None	79	0	0	72	7.94069718750001
+None	83	0	0	72	8.214468281250012
+None	102	0	0	72	10.244380781250017
+None	113	0	0	72	11.072371406250017
+None	176	0	0	72	15.710454375000015
+None	181	0	0	72	16.11376593750001
+None	184	0	0	72	16.519748437500013
+None	563	0	0	72	53.38669874999901
+None	567	0	0	72	54.101174531248965
+None	663	0	0	72	66.40351265624854
+None	664	0	0	72	66.52236937499853
+None	783	0	0	72	78.80066906249789
+None	850	0	0	72	85.48869656249754
+None	868	0	0	72	87.06054328124745
+None	871	0	0	72	87.4745385937474
+None	879	0	0	72	87.89254031249735
+None	935	0	0	72	92.29958718749687
+None	1018	0	0	72	99.45235781249633
+None	1027	0	0	72	100.2576454687463
+None	1064	0	0	72	102.6788503124962
+None	1279	0	0	72	125.37247078124487
+None	1295	0	0	72	127.14997968749472
+None	1297	0	0	72	127.54661390624469
+None	1397	0	0	72	140.43655828124366
+None	1601	0	0	72	161.6651695312418
+None	1607	0	0	72	162.05379093749173
+None	1662	0	0	72	166.49021812499123
+None	1665	0	0	72	166.89753609374117
+None	1671	0	0	72	167.44107187499108
+None	1725	0	0	72	172.10452874999055
+None	1739	0	0	72	173.48406796874048
+None	1754	0	0	72	174.5938424999904
+None	1758	0	0	72	174.69133171874037
+None	1800	0	0	72	177.44907468749014
+None	1985	0	0	72	204.20919749998785
+None	1990	0	0	72	205.04520093748778
+None	2004	0	0	72	207.18061546873764
+None	2039	0	0	72	211.72120921873733
+None	2075	0	0	72	217.95250640623686
+None	2164	0	0	72	230.54464124998574
+None	2245	0	0	72	237.90574499998488
+None	2341	0	0	72	250.80503765623365
+None	2349	0	0	72	251.72918203123356
+None	2357	0	0	72	252.78420234373348
+None	2363	0	0	72	253.6429087499834
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	59	0	0	73	5.95752609375
+None	68	0	0	73	7.184821875000009
+None	1121	0	0	73	107.57334328124607
+None	2034	0	0	73	211.50352781248733
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	18	0	0	74	2.0993568750000002
+None	21	0	0	74	2.2035234375
+None	173	0	0	74	15.256395000000012
+None	341	0	0	74	29.575290937499986
+None	456	0	0	74	41.0923734374997
+None	733	0	0	74	75.59420859374806
+None	738	0	0	74	75.71172984374805
+None	870	0	0	74	87.35033999999742
+None	1006	0	0	74	98.75924953124641
+None	1010	0	0	74	99.07842656249636
+None	1191	0	0	74	114.79956468749573
+None	1291	0	0	74	126.71995874999476
+None	1577	0	0	74	159.617895937492
+None	1664	0	0	74	166.78135031249118
+None	1838	0	0	74	182.0484290624898
+None	1862	0	0	74	185.64618187498934
+None	1867	0	0	74	186.49553999998926
+None	1957	0	0	74	200.2882612499883
+None	1958	0	0	74	200.41646624998828
+None	1963	0	0	74	201.20706374998818
+None	2143	0	0	74	227.756182499986
+None	2314	0	0	74	245.66214749998414
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	1001	0	0	75	97.76833171874642
+None	1230	0	0	75	119.11847062499544
+None	1387	0	0	75	139.0196259374937
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	44	0	0	76	4.521897187499999
+None	55	0	0	76	5.430015937499999
+None	72	0	0	76	7.4465737500000095
+None	195	0	0	76	17.65890328125001
+None	205	0	0	76	18.596402343749997
+None	731	0	0	76	75.59153765624806
+None	749	0	0	76	76.092338437498
+None	884	0	0	76	88.3105420312473
+None	929	0	0	76	91.14841312499699
+None	943	0	0	76	93.06347531249676
+None	949	0	0	76	93.60701109374669
+None	1263	0	0	76	123.40131890624504
+None	1458	0	0	76	149.34547031249292
+None	1466	0	0	76	149.6312606249929
+None	1474	0	0	76	150.03857859374284
+None	1480	0	0	76	150.18147374999282
+None	1485	0	0	76	150.6355331249928
+None	1505	0	0	76	152.16063843749265
+None	1585	0	0	76	160.02387843749196
+None	1608	0	0	76	162.05245546874173
+None	1614	0	0	76	162.47579906249166
+None	1676	0	0	76	167.82301593749105
+None	1715	0	0	76	170.64753234374064
+None	1805	0	0	76	177.75356156249012
+None	1821	0	0	76	178.59357140624005
+None	1933	0	0	76	195.66753937498873
+None	1939	0	0	76	196.4875171874887
+None	2337	0	0	76	250.12795499998373
+None	2374	0	0	76	254.0902907812334
+None	2382	0	0	76	254.96502281248334
+None	2387	0	0	76	255.96662437498327
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	40	0	0	77	4.226758593749999
+None	47	0	0	77	4.6474312499999995
+None	50	0	0	77	5.008007812499999
+None	74	0	0	77	7.568101406250011
+None	198	0	0	77	17.764405312500006
+None	200	0	0	77	18.16638140625
+None	489	0	0	77	44.06913328124954
+None	573	0	0	77	54.53787281249895
+None	604	0	0	77	58.488189374998726
+None	648	0	0	77	63.53091937499855
+None	666	0	0	77	66.84555281249852
+None	680	0	0	77	70.53144656249842
+None	736	0	0	77	75.68635593749805
+None	774	0	0	77	78.12759281249791
+None	818	0	0	77	82.5733682812477
+None	840	0	0	77	84.28143281249761
+None	881	0	0	77	88.15162124999732
+None	886	0	0	77	88.59766781249726
+None	901	0	0	77	89.54985703124714
+None	920	0	0	77	90.34045453124706
+None	947	0	0	77	93.34125281249673
+None	951	0	0	77	93.74723531249667
+None	965	0	0	77	94.77554624999655
+None	1028	0	0	77	100.2763420312463
+None	1337	0	0	77	132.30889546874425
+None	1399	0	0	77	140.78645109374364
+None	1406	0	0	77	142.86043406249348
+None	1470	0	0	77	149.75813015624288
+None	1506	0	0	77	152.26213406249263
+None	1582	0	0	77	159.72339796874198
+None	1594	0	0	77	160.62216843749192
+None	1610	0	0	77	162.32088468749168
+None	1616	0	0	77	162.76158937499164
+None	1678	0	0	77	167.98460765624105
+None	1692	0	0	77	169.0089121874909
+None	1934	0	0	77	195.88655624998873
+None	1940	0	0	77	196.71855328123866
+None	2068	0	0	77	216.90282796873694
+None	2141	0	0	77	227.06040328123603
+None	2205	0	0	77	235.98801187498518
+None	2232	0	0	77	237.40360874998495
+None	2253	0	0	77	238.51738968748478
+None	2257	0	0	77	238.67631046873475
+None	2266	0	0	77	239.0836284374847
+None	2271	0	0	77	239.23854281248467
+None	2316	0	0	77	245.87448703123414
+None	2365	0	0	77	253.6255476562334
+None	2393	0	0	77	256.77458296873374
+None	2398	0	0	77	257.68003078123405
+None	2404	0	0	77	258.6202007812346
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	35	0	0	78	3.7299642187499993
+None	38	0	0	78	3.8060859374999993
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	61	0	0	79	6.674672812500008
+None	69	0	0	79	7.167460781250009
+None	211	0	0	79	19.83838828125001
+None	317	0	0	79	27.613487343749977
+None	356	0	0	79	30.46204218749998
+None	459	0	0	79	41.47965937499969
+None	713	0	0	79	74.47642124999817
+None	752	0	0	79	76.088332031248
+None	755	0	0	79	76.52770124999796
+None	769	0	0	79	77.74297781249793
+None	827	0	0	79	83.77662562499764
+None	897	0	0	79	88.74456937499724
+None	950	0	0	79	93.46545140624671
+None	962	0	0	79	93.97560046874666
+None	1481	0	0	79	150.17746734374282
+None	1495	0	0	79	151.32864140624275
+None	1502	0	0	79	151.8775190624927
+None	1586	0	0	79	160.02654937499196
+None	1590	0	0	79	160.49663437499194
+None	1615	0	0	79	162.47045718749166
+None	1824	0	0	79	178.58422312499005
+None	2152	0	0	79	228.79250624998593
+None	2226	0	0	79	236.92951734373503
+None	2228	0	0	79	237.120489374985
+None	2261	0	0	79	238.88597906248472
+None	2265	0	0	79	239.0181904687347
+None	2267	0	0	79	239.17176937498468
+None	2372	0	0	79	254.0929617187334
+None	2381	0	0	79	254.95567453123334
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	353	0	0	80	30.368559374999982
+None	2376	0	0	80	254.74066406248338
+None	2400	0	0	80	257.6813662499841
+None	2405	0	0	80	258.61886531248456
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	63	0	0	81	6.782845781250009
+None	76	0	0	81	7.82851781250001
+None	213	0	0	81	19.953238593750005
+None	228	0	0	81	21.010929843750002
+None	346	0	0	81	29.979937968749987
+None	352	0	0	81	30.08276906249998
+None	370	0	0	81	31.63458374999998
+None	424	0	0	81	38.25583781249977
+None	429	0	0	81	38.759309531249755
+None	718	0	0	81	74.88106828124815
+None	767	0	0	81	77.32364062499792
+None	887	0	0	81	88.58698406249727
+None	952	0	0	81	93.74857078124667
+None	964	0	0	81	94.76085609374655
+None	1131	0	0	81	109.16388656249597
+None	1617	0	0	81	162.75624749999164
+None	1630	0	0	81	163.72312687499152
+None	1923	0	0	81	194.4349017187388
+None	2317	0	0	81	246.0614526562341
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	53	0	0	82	5.299139999999999
+None	56	0	0	82	5.408648437499998
+None	60	0	0	82	5.92948125
+None	399	0	0	82	36.19788046874982
+None	655	0	0	82	64.39763859374854
+None	690	0	0	82	72.26755593749829
+None	712	0	0	82	74.47375031249817
+None	761	0	0	82	76.51434656249796
+None	1133	0	0	82	109.46837343749594
+None	1407	0	0	82	142.96460062499347
+None	1479	0	0	82	150.15342890624282
+None	1492	0	0	82	150.6315267187428
+None	1592	0	0	82	160.49262796874194
+None	1687	0	0	82	168.17424421874102
+None	1902	0	0	82	191.564979374989
+None	2318	0	0	82	246.2724567187341
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	1580	0	0	83	159.76746843749197
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	65	0	0	84	7.072642500000009
+None	216	0	0	84	20.221667812500005
+None	659	0	0	84	65.55014812499854
+None	730	0	0	84	75.56349281249807
+None	843	0	0	84	85.07069484374756
+None	883	0	0	84	88.2384267187473
+None	1573	0	0	84	159.28669968749202
+None	1612	0	0	84	162.32756203124168
+None	1722	0	0	84	171.1096045312406
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	716	0	0	88	74.75286328124815
+None	942	0	0	88	92.95930874999678
+None	1138	0	0	88	109.85165296874591
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	692	0	0	89	72.39041906249827
+None	719	0	0	89	74.88507468749815
+None	940	0	0	89	92.30626453124687
+None	1142	0	0	89	109.95982593749589
+None	1567	0	0	89	158.80058906249207
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+None	deletion
+insertion	10	0	0	52	1.0416656250000005
+insertion	12	0	0	52	1.3741973437500006
+insertion	46	0	0	79	4.658115
+insertion	49	0	0	71	4.967943749999999
+insertion	157	0	0	41	13.620445781250009
+insertion	164	0	0	69	13.624452187500008
+insertion	158	0	0	29	13.628458593750008
+insertion	162	0	0	41	13.97835140625001
+insertion	159	0	0	57	13.632465000000007
+insertion	160	0	0	65	13.652497031250007
+insertion	166	0	0	65	14.45511375000001
+insertion	163	0	0	53	14.054473125000008
+insertion	165	0	0	53	14.368308281250009
+insertion	167	0	0	65	14.74223953125001
+insertion	168	0	0	69	14.84507062500001
+insertion	169	0	0	41	14.870444531250012
+insertion	170	0	0	74	15.145551093750012
+insertion	171	0	0	41	15.153563906250012
+insertion	172	0	0	40	15.244375781250012
+insertion	174	0	0	64	15.715796250000015
+insertion	179	0	0	63	16.10842406250001
+insertion	185	0	0	69	16.83892546875001
+insertion	186	0	0	72	16.84159640625001
+insertion	183	0	0	39	16.525090312500012
+insertion	187	0	0	78	16.84026093750001
+insertion	188	0	0	39	16.850944687500007
+insertion	189	0	0	38	16.93908562500001
+insertion	190	0	0	78	16.93641468750001
+insertion	193	0	0	70	16.94309203125001
+insertion	197	0	0	65	16.94442750000001
+insertion	191	0	0	62	17.369106562500008
+insertion	192	0	0	77	17.35975828125001
+insertion	196	0	0	61	17.74971515625001
+insertion	199	0	0	70	18.0688921875
+insertion	201	0	0	37	18.17172328125
+insertion	202	0	0	37	18.473539218750002
+insertion	203	0	0	82	18.465526406250003
+insertion	204	0	0	36	18.588389531249998
+insertion	206	0	0	82	18.58037671875
+insertion	207	0	0	67	19.1265834375
+insertion	209	0	0	73	19.15195734375
+insertion	210	0	0	82	19.118570625
+insertion	212	0	0	64	19.561946250000002
+insertion	214	0	0	65	19.959915937500003
+insertion	215	0	0	72	19.965257812500003
+insertion	217	0	0	72	20.235022500000007
+insertion	219	0	0	73	20.356550156250005
+insertion	220	0	0	79	20.352543750000006
+insertion	221	0	0	70	20.349872812500006
+insertion	222	0	0	73	20.500780781250008
+insertion	223	0	0	67	20.65569515625
+insertion	224	0	0	76	20.646346875000003
+insertion	225	0	0	72	20.755855312500003
+insertion	226	0	0	77	20.742500625
+insertion	230	0	0	65	21.0443165625
+insertion	231	0	0	72	21.125780156250002
+insertion	232	0	0	67	21.13646390625
+insertion	234	0	0	67	21.41958328125
+insertion	235	0	0	72	21.4182478125
+insertion	236	0	0	63	21.436944375
+insertion	238	0	0	62	21.522414374999997
+insertion	239	0	0	65	21.538439999999998
+insertion	240	0	0	70	21.80152734375
+insertion	241	0	0	65	21.80553375
+insertion	242	0	0	61	21.80553375
+insertion	243	0	0	70	21.912371249999996
+insertion	252	0	0	48	21.931067812499997
+insertion	245	0	0	55	22.3904690625
+insertion	246	0	0	53	22.704304218749996
+insertion	248	0	0	70	22.38245625
+insertion	250	0	0	67	23.104944843749998
+insertion	251	0	0	53	23.22513703125
+insertion	253	0	0	69	23.23047890625
+insertion	254	0	0	60	23.238491718749998
+insertion	255	0	0	72	23.521611093749996
+insertion	256	0	0	52	23.67519
+insertion	257	0	0	46	23.67519
+insertion	258	0	0	60	23.69789296875
+insertion	259	0	0	67	23.667177187500002
+insertion	260	0	0	66	23.975670468750003
+insertion	261	0	0	60	24.095862656250002
+insertion	262	0	0	53	24.094527187500002
+insertion	264	0	0	65	24.086514375000004
+insertion	263	0	0	45	24.10120453125
+insertion	265	0	0	72	24.3669628125
+insertion	266	0	0	60	24.376311093749997
+insertion	267	0	0	54	24.381652968749997
+insertion	268	0	0	44	24.386994843749996
+insertion	269	0	0	43	24.492496874999997
+insertion	270	0	0	55	24.493832343749997
+insertion	272	0	0	60	24.491161406249997
+insertion	273	0	0	63	24.783629062499994
+insertion	274	0	0	54	24.91316953124999
+insertion	275	0	0	42	24.91717593749999
+insertion	276	0	0	60	24.91450499999999
+insertion	277	0	0	62	24.907827656249992
+insertion	279	0	0	62	25.19495343749999
+insertion	280	0	0	60	25.209643593749988
+insertion	281	0	0	54	25.20296624999999
+insertion	282	0	0	42	25.210979062499987
+insertion	283	0	0	43	25.328500312499983
+insertion	284	0	0	60	25.328500312499983
+insertion	286	0	0	63	25.639664531249984
+insertion	287	0	0	62	25.741160156249983
+insertion	288	0	0	59	25.75050843749998
+insertion	289	0	0	31	25.730476406249984
+insertion	290	0	0	43	25.75451484374998
+insertion	291	0	0	59	26.018937656249985
+insertion	292	0	0	31	26.013595781249986
+insertion	294	0	0	43	26.040305156249982
+insertion	295	0	0	48	26.14447171874998
+insertion	296	0	0	36	26.14714265624998
+insertion	298	0	0	60	26.14313624999998
+insertion	299	0	0	33	26.447623124999982
+insertion	300	0	0	31	26.52374484374998
+insertion	301	0	0	43	26.53175765624998
+insertion	302	0	0	76	26.840250937499984
+insertion	303	0	0	67	26.849599218749983
+insertion	304	0	0	55	26.849599218749983
+insertion	305	0	0	72	26.853605624999982
+insertion	306	0	0	72	26.952430312499978
+insertion	307	0	0	67	26.93907562499998
+insertion	308	0	0	55	26.951094843749978
+insertion	309	0	0	76	26.951094843749978
+insertion	310	0	0	66	27.22486593749998
+insertion	311	0	0	75	27.22353046874998
+insertion	312	0	0	74	27.33303890624998
+insertion	313	0	0	65	27.339716249999977
+insertion	314	0	0	55	27.350399999999976
+insertion	315	0	0	71	27.350399999999976
+insertion	316	0	0	65	27.609480937499978
+insertion	318	0	0	55	27.608145468749978
+insertion	319	0	0	72	27.73635046874998
+insertion	320	0	0	69	28.01679890624998
+insertion	321	0	0	64	27.752376093749977
+insertion	322	0	0	60	27.744363281249978
+insertion	323	0	0	67	28.13565562499998
+insertion	327	0	0	48	28.509586874999982
+insertion	328	0	0	53	28.510922343749982
+insertion	330	0	0	56	28.775345156249987
+insertion	332	0	0	48	28.88885999999999
+insertion	337	0	0	48	29.17999218749999
+insertion	336	0	0	55	29.18266312499999
+insertion	333	0	0	52	28.89153093749999
+insertion	334	0	0	76	29.17999218749999
+insertion	335	0	0	60	29.18266312499999
+insertion	338	0	0	64	29.22005624999999
+insertion	339	0	0	77	29.285494218749985
+insertion	340	0	0	65	29.286829687499985
+insertion	342	0	0	62	29.585974687499984
+insertion	343	0	0	53	29.285494218749985
+insertion	344	0	0	72	29.691476718749986
+insertion	345	0	0	60	29.714179687499986
+insertion	347	0	0	72	29.994628124999984
+insertion	348	0	0	77	29.990621718749985
+insertion	349	0	0	60	30.010653749999985
+insertion	350	0	0	77	30.10547203124998
+insertion	351	0	0	72	30.11482031249998
+insertion	354	0	0	71	30.372565781249982
+insertion	355	0	0	70	30.467384062499978
+insertion	358	0	0	84	30.759851718749978
+insertion	360	0	0	48	30.77320640624998
+insertion	361	0	0	65	30.890727656249982
+insertion	364	0	0	69	30.909424218749983
+insertion	365	0	0	77	30.892063124999982
+insertion	367	0	0	69	31.63458374999998
+insertion	368	0	0	45	31.63859015624998
+insertion	369	0	0	33	31.647938437499977
+insertion	371	0	0	69	31.738750312499974
+insertion	372	0	0	45	31.740085781249974
+insertion	373	0	0	81	31.733408437499975
+insertion	374	0	0	33	31.761453281249974
+insertion	375	0	0	81	32.10466874999998
+insertion	376	0	0	90	32.50664484374997
+insertion	377	0	0	85	32.19948703124998
+insertion	378	0	0	90	32.61348234374997
+insertion	380	0	0	64	32.89660171874997
+insertion	379	0	0	88	33.03415499999995
+insertion	381	0	0	71	33.03148406249995
+insertion	382	0	0	74	33.315938906249926
+insertion	384	0	0	74	33.44547937499992
+insertion	385	0	0	73	33.88484859374991
+insertion	387	0	0	66	34.15594874999989
+insertion	388	0	0	66	34.26812812499988
+insertion	390	0	0	52	34.575285937499885
+insertion	391	0	0	59	34.70482640624988
+insertion	392	0	0	62	34.97859749999986
+insertion	393	0	0	62	35.09745421874985
+insertion	394	0	0	80	35.408618437499854
+insertion	395	0	0	81	35.498094843749854
+insertion	396	0	0	82	35.81460093749984
+insertion	397	0	0	61	35.50210124999985
+insertion	398	0	0	82	35.92544484374982
+insertion	402	0	0	88	36.20055140624982
+insertion	404	0	0	81	36.30204703124981
+insertion	405	0	0	89	36.30204703124981
+insertion	407	0	0	67	36.59050828124981
+insertion	408	0	0	64	36.59852109374981
+insertion	409	0	0	79	36.60653390624981
+insertion	410	0	0	91	36.60252749999981
+insertion	413	0	0	91	36.6986812499998
+insertion	414	0	0	88	36.99782624999979
+insertion	418	0	0	79	36.6946748437498
+insertion	415	0	0	45	37.12736671874979
+insertion	416	0	0	91	37.11134109374979
+insertion	417	0	0	57	37.12068937499979
+insertion	419	0	0	85	37.41582796874979
+insertion	420	0	0	88	37.51198171874979
+insertion	421	0	0	79	37.82047499999978
+insertion	422	0	0	61	37.92731249999978
+insertion	423	0	0	82	37.92597703124978
+insertion	426	0	0	77	38.35866890624977
+insertion	427	0	0	57	38.69387156249976
+insertion	428	0	0	62	38.77266421874975
+insertion	431	0	0	81	38.919565781249744
+insertion	433	0	0	81	39.04643531249974
+insertion	430	0	0	82	38.832760312499744
+insertion	432	0	0	82	38.99435203124975
+insertion	434	0	0	53	39.05845453124974
+insertion	435	0	0	82	39.107866874999736
+insertion	436	0	0	81	39.161285624999735
+insertion	438	0	0	50	39.45775968749973
+insertion	440	0	0	57	39.58462921874973
+insertion	439	0	0	89	39.58730015624973
+insertion	441	0	0	91	39.66342187499973
+insertion	442	0	0	89	39.73820812499972
+insertion	443	0	0	91	39.81032343749972
+insertion	444	0	0	89	39.878432343749715
+insertion	445	0	0	48	39.86374218749972
+insertion	446	0	0	91	39.927844687499714
+insertion	447	0	0	55	39.95856046874972
+insertion	448	0	0	47	39.95455406249972
+insertion	449	0	0	89	39.966573281249715
+insertion	450	0	0	86	40.28441484374971
+insertion	451	0	0	31	40.384574999999714
+insertion	452	0	0	89	40.377897656249715
+insertion	453	0	0	43	40.377897656249715
+insertion	454	0	0	83	40.69974562499971
+insertion	455	0	0	86	40.79322843749971
+insertion	457	0	0	59	41.1791789062497
+insertion	458	0	0	80	41.1805143749997
+insertion	460	0	0	60	41.57981953124968
+insertion	461	0	0	76	41.59584515624968
+insertion	462	0	0	55	41.90166749999967
+insertion	463	0	0	60	42.00850499999966
+insertion	464	0	0	81	41.99247937499966
+insertion	465	0	0	83	42.05257546874965
+insertion	466	0	0	81	42.14605828124965
+insertion	467	0	0	83	42.226186406249646
+insertion	468	0	0	81	42.279605156249644
+insertion	469	0	0	53	42.32234015624964
+insertion	470	0	0	80	42.30764999999964
+insertion	471	0	0	81	42.37442343749964
+insertion	472	0	0	57	42.36774609374964
+insertion	473	0	0	50	42.680245781249624
+insertion	475	0	0	52	42.813792656249625
+insertion	476	0	0	93	42.765715781249625
+insertion	477	0	0	95	42.83649562499962
+insertion	478	0	0	93	42.90326906249962
+insertion	479	0	0	95	42.98339718749962
+insertion	480	0	0	93	43.04749968749961
+insertion	481	0	0	92	43.06352531249961
+insertion	482	0	0	41	43.0929056249996
+insertion	483	0	0	93	43.1396470312496
+insertion	484	0	0	92	43.1797110937496
+insertion	485	0	0	40	43.1917303124996
+insertion	486	0	0	52	43.1863884374996
+insertion	495	0	0	77	44.19066093749952
+insertion	487	0	0	76	43.67650546874958
+insertion	488	0	0	79	43.773994687499574
+insertion	490	0	0	57	44.4884704687495
+insertion	491	0	0	62	44.639378437499495
+insertion	492	0	0	58	44.6300301562495
+insertion	493	0	0	57	44.93585249999947
+insertion	496	0	0	75	45.36053156249945
+insertion	497	0	0	77	45.48740109374945
+insertion	499	0	0	56	45.085424999999454
+insertion	500	0	0	59	45.077412187499455
+insertion	498	0	0	76	45.76517859374943
+insertion	501	0	0	55	46.188522187499416
+insertion	503	0	0	57	46.31806265624942
+insertion	510	0	0	76	45.917422031249416
+insertion	506	0	0	57	46.725380624999374
+insertion	507	0	0	53	46.730722499999374
+insertion	513	0	0	74	47.13670499999934
+insertion	514	0	0	69	47.414482499999316
+insertion	516	0	0	74	47.86186453124928
+insertion	520	0	0	69	47.549364843749295
+insertion	517	0	0	77	47.97938578124928
+insertion	518	0	0	82	48.27452437499928
+insertion	522	0	0	69	48.79535718749926
+insertion	527	0	0	82	48.401393906249275
+insertion	524	0	0	65	48.80336999999926
+insertion	526	0	0	67	49.09183124999923
+insertion	528	0	0	73	49.49113640624922
+insertion	531	0	0	67	49.21202343749922
+insertion	529	0	0	76	49.61533499999922
+insertion	530	0	0	81	49.899789843749204
+insertion	535	0	0	81	50.025323906249206
+insertion	536	0	0	38	50.364532968749195
+insertion	537	0	0	41	50.47938328124918
+insertion	538	0	0	39	50.78253468749918
+insertion	539	0	0	54	50.810579531249175
+insertion	540	0	0	57	50.906733281249174
+insertion	546	0	0	39	50.893378593749176
+insertion	541	0	0	66	51.21656203124914
+insertion	542	0	0	60	51.22724578124914
+insertion	543	0	0	69	51.32072859374913
+insertion	544	0	0	66	51.346102499999134
+insertion	545	0	0	72	51.62120906249911
+insertion	547	0	0	67	51.75475593749909
+insertion	549	0	0	36	52.03520437499909
+insertion	550	0	0	39	52.14738374999908
+insertion	551	0	0	38	52.438515937499076
+insertion	552	0	0	58	52.453206093749074
+insertion	553	0	0	62	52.56672093749906
+insertion	554	0	0	67	52.88456249999905
+insertion	555	0	0	69	52.89391078124905
+insertion	556	0	0	38	52.54268249999906
+insertion	557	0	0	73	52.98739359374904
+insertion	558	0	0	74	52.98472265624904
+insertion	559	0	0	34	52.96736156249904
+insertion	560	0	0	79	53.25582281249902
+insertion	561	0	0	67	53.00074828124904
+insertion	562	0	0	33	53.373344062499015
+insertion	564	0	0	79	53.696527499998986
+insertion	565	0	0	38	53.795352187498985
+insertion	566	0	0	32	54.005020781248966
+insertion	568	0	0	77	53.792681249998985
+insertion	572	0	0	31	54.17863171874896
+insertion	569	0	0	71	54.18797999999896
+insertion	570	0	0	67	54.44171906249895
+insertion	571	0	0	70	54.43370624999895
+insertion	574	0	0	76	54.62067187499894
+insertion	578	0	0	37	54.61265906249894
+insertion	575	0	0	77	55.082744062498925
+insertion	576	0	0	65	55.082744062498925
+insertion	577	0	0	68	55.085414999998925
+insertion	579	0	0	35	55.530126093748905
+insertion	581	0	0	36	55.95881156249885
+insertion	582	0	0	53	55.96281796874885
+insertion	583	0	0	56	56.073661874998834
+insertion	588	0	0	36	56.069655468748834
+insertion	584	0	0	61	56.38482609374882
+insertion	585	0	0	65	56.471631562498814
+insertion	586	0	0	68	56.78279578124879
+insertion	587	0	0	73	56.88963328124878
+insertion	589	0	0	61	56.88963328124878
+insertion	590	0	0	66	56.88829781249878
+insertion	591	0	0	33	57.19144921874875
+insertion	593	0	0	34	57.60277359374874
+insertion	594	0	0	54	57.597431718748744
+insertion	595	0	0	58	57.70426921874874
+insertion	596	0	0	61	57.98338218749874
+insertion	597	0	0	66	58.06618124999874
+insertion	601	0	0	34	57.69892734374874
+insertion	598	0	0	67	58.36799718749874
+insertion	599	0	0	64	58.386693749998734
+insertion	600	0	0	73	58.376009999998736
+insertion	602	0	0	72	58.492195781248725
+insertion	603	0	0	65	58.48284749999873
+insertion	605	0	0	55	58.81137281249872
+insertion	606	0	0	64	58.81671468749872
+insertion	607	0	0	32	58.486853906248726
+insertion	608	0	0	58	58.91954578124871
+insertion	609	0	0	67	58.91019749999871
+insertion	610	0	0	56	59.2427292187487
+insertion	612	0	0	65	59.2560839062487
+insertion	616	0	0	31	59.32953468749869
+insertion	613	0	0	70	59.33354109374869
+insertion	614	0	0	63	59.63936343749868
+insertion	615	0	0	53	59.67007921874868
+insertion	617	0	0	56	59.759555624998676
+insertion	618	0	0	65	59.767568437498674
+insertion	620	0	0	64	60.074726249998676
+insertion	621	0	0	29	60.16019624999867
+insertion	623	0	0	68	60.16954453124867
+insertion	622	0	0	51	60.51008906249865
+insertion	624	0	0	60	60.50474718749865
+insertion	625	0	0	63	60.61024921874865
+insertion	626	0	0	54	60.62493937499865
+insertion	627	0	0	46	60.61024921874865
+insertion	628	0	0	53	60.90271687499863
+insertion	629	0	0	70	60.90271687499863
+insertion	630	0	0	78	61.025579999998634
+insertion	631	0	0	39	61.02825093749863
+insertion	632	0	0	51	61.32071859374863
+insertion	633	0	0	60	61.32338953124863
+insertion	634	0	0	54	61.43289796874862
+insertion	635	0	0	63	61.43289796874862
+insertion	636	0	0	68	61.7614232812486
+insertion	637	0	0	44	61.44892359374862
+insertion	638	0	0	53	61.765429687498596
+insertion	639	0	0	61	61.772107031248595
+insertion	640	0	0	37	62.113987031248584
+insertion	641	0	0	65	62.72963812499857
+insertion	643	0	0	61	62.63749078124857
+insertion	644	0	0	80	62.19144421874858
+insertion	642	0	0	68	63.02210578124856
+insertion	645	0	0	68	63.13562062499856
+insertion	646	0	0	73	63.444113906248546
+insertion	647	0	0	80	63.851431874998546
+insertion	649	0	0	70	63.56564156249855
+insertion	650	0	0	80	63.97563046874854
+insertion	653	0	0	63	64.26943359374854
+insertion	651	0	0	66	64.39496765624854
+insertion	656	0	0	70	64.83166593749853
+insertion	654	0	0	75	65.15885578124853
+insertion	657	0	0	72	65.25768046874853
+insertion	658	0	0	78	65.25500953124853
+insertion	660	0	0	84	65.67568218749854
+insertion	662	0	0	65	65.95880156249854
+insertion	661	0	0	68	66.11238046874854
+insertion	665	0	0	85	66.09769031249854
+insertion	667	0	0	73	66.97375781249852
+insertion	668	0	0	80	66.97242234374852
+insertion	669	0	0	85	67.32765703124852
+insertion	670	0	0	89	67.46253937499851
+insertion	671	0	0	49	68.4360960937485
+insertion	672	0	0	77	68.7846534374985
+insertion	673	0	0	37	68.4534571874985
+insertion	674	0	0	82	68.8834781249985
+insertion	675	0	0	89	69.2106679687485
+insertion	676	0	0	89	69.3175054687485
+insertion	677	0	0	48	69.32418281249849
+insertion	678	0	0	36	69.3108281249985
+insertion	679	0	0	49	70.23630796874845
+insertion	681	0	0	88	69.79159687499848
+insertion	684	0	0	37	70.22028234374845
+insertion	682	0	0	82	70.65831609374841
+insertion	683	0	0	89	70.94009999999841
+insertion	686	0	0	89	71.0629631249984
+insertion	687	0	0	36	71.0709759374984
+insertion	688	0	0	49	71.97241734374832
+insertion	689	0	0	88	71.53972546874837
+insertion	691	0	0	37	71.96440453124832
+insertion	693	0	0	94	72.69757687499826
+insertion	694	0	0	94	72.81242718749824
+insertion	695	0	0	36	72.83379468749824
+insertion	696	0	0	48	72.99137999999822
+insertion	697	0	0	36	73.1329396874982
+insertion	698	0	0	48	73.27316390624817
+insertion	699	0	0	36	73.40938171874816
+insertion	701	0	0	94	73.25446734374817
+insertion	702	0	0	36	73.67246906249818
+insertion	703	0	0	48	73.81803515624817
+insertion	707	0	0	48	74.05975499999818
+insertion	704	0	0	91	73.96493671874818
+insertion	705	0	0	36	73.95959484374818
+insertion	706	0	0	93	74.08112249999817
+insertion	708	0	0	36	74.21333390624817
+insertion	709	0	0	96	74.32417781249816
+insertion	715	0	0	48	74.58459421874817
+insertion	711	0	0	91	74.46573749999817
+insertion	714	0	0	36	74.45238281249817
+insertion	717	0	0	36	74.76488249999815
+insertion	720	0	0	48	74.87839734374815
+insertion	723	0	0	48	75.13347187499812
+insertion	721	0	0	36	75.01995703124813
+insertion	722	0	0	93	75.14148468749812
+insertion	727	0	0	36	75.27102515624811
+insertion	724	0	0	76	75.28705078124811
+insertion	725	0	0	79	75.29105718749811
+insertion	726	0	0	84	75.28437984374811
+insertion	728	0	0	48	75.3898818749981
+insertion	729	0	0	79	75.54746718749807
+insertion	732	0	0	36	75.54346078124807
+insertion	734	0	0	83	75.60622781249806
+insertion	735	0	0	48	75.66765937499805
+insertion	742	0	0	76	75.96546890624802
+insertion	737	0	0	83	75.67166578124805
+insertion	739	0	0	36	75.76514859374804
+insertion	740	0	0	48	75.85996687499802
+insertion	743	0	0	79	75.97481718749802
+insertion	744	0	0	82	75.95745609374802
+insertion	745	0	0	70	76.076312812498
+insertion	746	0	0	75	76.128396093748
+insertion	747	0	0	82	76.076312812498
+insertion	748	0	0	48	76.089667499998
+insertion	750	0	0	60	76.22722078124798
+insertion	751	0	0	48	76.35542578124797
+insertion	753	0	0	76	76.52235937499796
+insertion	754	0	0	70	76.51701749999796
+insertion	756	0	0	60	76.51034015624796
+insertion	757	0	0	48	76.66792546874795
+insertion	758	0	0	60	76.80948515624794
+insertion	759	0	0	48	76.92032906249794
+insertion	763	0	0	79	77.21413218749792
+insertion	760	0	0	60	77.03651484374794
+insertion	764	0	0	60	77.29559578124793
+insertion	765	0	0	48	77.43849093749793
+insertion	766	0	0	60	77.56803140624794
+insertion	768	0	0	84	77.62946296874793
+insertion	771	0	0	67	78.02609718749791
+insertion	772	0	0	60	77.74030687499793
+insertion	773	0	0	76	78.03143906249791
+insertion	776	0	0	72	78.4026993749979
+insertion	777	0	0	60	78.2611396874979
+insertion	778	0	0	81	78.3920156249979
+insertion	779	0	0	72	78.50285953124789
+insertion	780	0	0	64	78.51220781249789
+insertion	781	0	0	60	78.64575468749788
+insertion	789	0	0	67	79.21065796874785
+insertion	784	0	0	71	78.89682281249787
+insertion	785	0	0	62	78.89682281249787
+insertion	788	0	0	70	79.19863874999785
+insertion	795	0	0	67	79.34554031249785
+insertion	792	0	0	58	79.34954671874785
+insertion	793	0	0	42	79.42700390624783
+insertion	796	0	0	64	79.34554031249785
+insertion	797	0	0	58	79.94249484374782
+insertion	798	0	0	55	80.77582734374779
+insertion	799	0	0	57	80.88400031249779
+insertion	800	0	0	60	81.20851921874777
+insertion	801	0	0	57	81.30467296874775
+insertion	802	0	0	65	80.86931015624779
+insertion	803	0	0	53	81.60248249999775
+insertion	804	0	0	62	81.61850812499775
+insertion	805	0	0	55	81.72935203124774
+insertion	806	0	0	64	81.71866828124774
+insertion	807	0	0	67	82.05520640624772
+insertion	808	0	0	70	81.72401015624774
+insertion	809	0	0	58	82.03918078124772
+insertion	810	0	0	60	82.14334734374772
+insertion	811	0	0	55	82.15670203124772
+insertion	812	0	0	67	82.4157829687477
+insertion	815	0	0	69	82.5733682812477
+insertion	817	0	0	72	82.88586796874768
+insertion	819	0	0	68	83.00739562499767
+insertion	821	0	0	74	83.27181843749767
+insertion	822	0	0	67	83.29852781249767
+insertion	824	0	0	88	83.50285453124765
+insertion	825	0	0	75	83.46145499999766
+insertion	828	0	0	51	83.78597390624763
+insertion	830	0	0	87	83.45878406249766
+insertion	829	0	0	78	83.88613406249763
+insertion	832	0	0	84	84.17459531249762
+insertion	835	0	0	86	84.28143281249761
+insertion	836	0	0	89	84.59393249999759
+insertion	837	0	0	50	84.5845842187476
+insertion	839	0	0	86	84.69142171874759
+insertion	841	0	0	82	84.96652828124758
+insertion	842	0	0	43	84.96652828124758
+insertion	848	0	0	46	85.33244671874755
+insertion	845	0	0	86	85.33645312499755
+insertion	846	0	0	74	85.38586546874754
+insertion	847	0	0	77	85.33244671874755
+insertion	849	0	0	48	85.47534187499754
+insertion	851	0	0	77	85.49938031249754
+insertion	852	0	0	81	85.49403843749754
+insertion	854	0	0	76	85.80920906249753
+insertion	855	0	0	79	85.81054453124753
+insertion	857	0	0	72	85.92138843749751
+insertion	858	0	0	81	85.90936921874751
+insertion	859	0	0	79	86.2619329687475
+insertion	860	0	0	48	86.2646039062475
+insertion	861	0	0	82	86.2646039062475
+insertion	862	0	0	81	86.3821251562475
+insertion	863	0	0	77	86.3888024999975
+insertion	864	0	0	41	86.3994862499975
+insertion	872	0	0	89	87.04318218749745
+insertion	875	0	0	74	87.74697421874735
+insertion	876	0	0	88	87.75365156249735
+insertion	877	0	0	86	87.87250828124735
+insertion	878	0	0	76	87.88586296874735
+insertion	880	0	0	84	88.13693109374732
+insertion	882	0	0	74	88.15829859374732
+insertion	885	0	0	79	88.3025292187473
+insertion	888	0	0	41	88.72587281249724
+insertion	889	0	0	29	88.72854374999724
+insertion	890	0	0	43	89.0089921874972
+insertion	891	0	0	31	89.0116631249972
+insertion	894	0	0	82	88.72987921874724
+insertion	892	0	0	45	89.15055187499718
+insertion	893	0	0	33	89.14921640624718
+insertion	895	0	0	46	89.41631015624716
+insertion	896	0	0	34	89.43634218749716
+insertion	899	0	0	36	89.54451515624714
+insertion	900	0	0	81	89.54050874999714
+insertion	902	0	0	50	89.8249635937471
+insertion	903	0	0	38	89.8343118749971
+insertion	904	0	0	52	89.94515578124708
+insertion	905	0	0	40	89.93447203124708
+insertion	907	0	0	77	89.98655531249707
+insertion	908	0	0	70	90.00391640624707
+insertion	909	0	0	79	89.95450406249708
+insertion	911	0	0	41	90.21759140624707
+insertion	912	0	0	70	90.09339281249707
+insertion	913	0	0	55	90.34178999999706
+insertion	914	0	0	43	90.33911906249706
+insertion	916	0	0	45	90.63158671874704
+insertion	923	0	0	57	91.074962343747
+insertion	917	0	0	46	90.75444984374703
+insertion	921	0	0	47	91.02554999999701
+insertion	926	0	0	67	91.15241953124699
+insertion	930	0	0	29	91.74536765624694
+insertion	931	0	0	41	91.74403218749694
+insertion	932	0	0	65	91.88959828124692
+insertion	934	0	0	70	92.06988656249689
+insertion	937	0	0	74	92.57870015624684
+insertion	938	0	0	72	92.70556968749682
+insertion	941	0	0	74	92.95396687499678
+insertion	944	0	0	86	93.08884921874676
+insertion	945	0	0	72	93.19034484374674
+insertion	946	0	0	84	93.33858187499673
+insertion	948	0	0	84	93.43740656249672
+insertion	955	0	0	31	94.16657249999663
+insertion	956	0	0	43	94.27207453124662
+insertion	960	0	0	82	93.95823937499667
+insertion	958	0	0	45	94.44034359374659
+insertion	959	0	0	34	94.54451015624657
+insertion	961	0	0	46	94.63532203124656
+insertion	967	0	0	38	94.95316359374654
+insertion	968	0	0	50	95.06934937499653
+insertion	969	0	0	40	95.16149671874652
+insertion	970	0	0	38	95.24162484374652
+insertion	971	0	0	52	95.26699874999652
+insertion	972	0	0	70	95.16683859374652
+insertion	973	0	0	79	95.16016124999652
+insertion	974	0	0	40	95.38852640624651
+insertion	975	0	0	41	95.38585546874651
+insertion	976	0	0	53	95.4686545312465
+insertion	977	0	0	43	95.5794984374965
+insertion	978	0	0	55	95.6850004687465
+insertion	979	0	0	45	95.77047046874648
+insertion	980	0	0	57	95.87463703124648
+insertion	981	0	0	46	95.97479718749648
+insertion	982	0	0	77	95.5995304687465
+insertion	983	0	0	69	95.5981949999965
+insertion	984	0	0	58	96.07762828124648
+insertion	985	0	0	47	96.17645296874646
+insertion	986	0	0	59	96.28863234374646
+insertion	988	0	0	76	96.38612156249644
+insertion	989	0	0	48	96.38345062499644
+insertion	990	0	0	60	96.49830093749642
+insertion	992	0	0	46	96.62116406249642
+insertion	993	0	0	45	96.84952921874643
+insertion	994	0	0	96	96.84819374999643
+insertion	995	0	0	84	96.84819374999643
+insertion	997	0	0	65	97.77367359374642
+insertion	998	0	0	72	97.78035093749642
+insertion	999	0	0	63	97.77100265624642
+insertion	1000	0	0	60	97.77634453124642
+insertion	1013	0	0	65	99.15855468749635
+insertion	1003	0	0	70	98.76192046874641
+insertion	1004	0	0	62	98.76592687499641
+insertion	1008	0	0	70	99.08510390624636
+insertion	1011	0	0	69	99.17458031249635
+insertion	1012	0	0	60	99.17458031249635
+insertion	1014	0	0	72	99.17458031249635
+insertion	1017	0	0	65	99.48307359374633
+insertion	1015	0	0	69	99.46037062499633
+insertion	1016	0	0	60	99.47105437499633
+insertion	1019	0	0	71	99.56854359374631
+insertion	1021	0	0	68	99.57922734374631
+insertion	1022	0	0	70	99.84765656249631
+insertion	1023	0	0	64	99.86902406249631
+insertion	1024	0	0	65	99.96517781249631
+insertion	1025	0	0	69	99.9665132812463
+insertion	1026	0	0	81	100.2589809374963
+insertion	1029	0	0	60	100.2883612499963
+insertion	1030	0	0	72	100.37383124999629
+insertion	1031	0	0	77	100.36848937499629
+insertion	1035	0	0	77	100.69167281249628
+insertion	1032	0	0	81	100.34979281249629
+insertion	1034	0	0	71	100.66629890624628
+insertion	1036	0	0	80	100.66629890624628
+insertion	1042	0	0	60	101.02821093749625
+insertion	1038	0	0	77	100.77580734374627
+insertion	1039	0	0	79	100.76645906249627
+insertion	1040	0	0	76	101.03488828124625
+insertion	1041	0	0	84	101.05091390624625
+insertion	1043	0	0	69	101.16042234374625
+insertion	1044	0	0	65	101.16709968749625
+insertion	1045	0	0	77	101.16042234374625
+insertion	1046	0	0	62	101.45823187499624
+insertion	1047	0	0	60	101.60246249999624
+insertion	1048	0	0	60	101.87356265624624
+insertion	1049	0	0	69	101.87222718749624
+insertion	1050	0	0	65	101.88023999999623
+insertion	1051	0	0	48	101.88157546874623
+insertion	1052	0	0	60	101.97906468749623
+insertion	1053	0	0	65	101.99241937499623
+insertion	1055	0	0	48	101.98040015624623
+insertion	1056	0	0	59	102.25417124999622
+insertion	1058	0	0	68	102.26485499999622
+insertion	1060	0	0	58	102.3770343749962
+insertion	1061	0	0	48	102.3823762499962
+insertion	1062	0	0	64	102.3917245312462
+insertion	1063	0	0	76	102.6668310937462
+insertion	1065	0	0	58	102.6695020312462
+insertion	1067	0	0	77	102.76966218749618
+insertion	1068	0	0	72	102.78168140624618
+insertion	1069	0	0	74	103.04743968749618
+insertion	1070	0	0	57	102.76565578124618
+insertion	1071	0	0	53	102.76832671874618
+insertion	1076	0	0	48	103.46277046874617
+insertion	1072	0	0	72	103.16228999999618
+insertion	1073	0	0	69	103.44941578124617
+insertion	1074	0	0	81	103.45342218749617
+insertion	1075	0	0	60	103.45475765624617
+insertion	1077	0	0	77	103.45342218749617
+insertion	1078	0	0	69	103.56960796874615
+insertion	1079	0	0	60	103.57494984374615
+insertion	1080	0	0	48	103.57094343749615
+insertion	1081	0	0	81	103.56560156249616
+insertion	1082	0	0	77	103.57094343749615
+insertion	1083	0	0	68	103.85539828124614
+insertion	1084	0	0	48	103.85673374999614
+insertion	1085	0	0	80	103.85539828124614
+insertion	1086	0	0	36	103.86341109374614
+insertion	1090	0	0	79	103.95822937499614
+insertion	1088	0	0	48	103.96490671874614
+insertion	1089	0	0	36	103.96757765624614
+insertion	1091	0	0	69	104.02366734374613
+insertion	1092	0	0	36	104.16255609374613
+insertion	1093	0	0	48	104.29209656249614
+insertion	1094	0	0	76	104.30545124999614
+insertion	1095	0	0	36	104.30144484374614
+insertion	1096	0	0	79	104.29476749999614
+insertion	1097	0	0	88	104.29343203124614
+insertion	1098	0	0	77	104.46303656249613
+insertion	1099	0	0	29	104.46036562499613
+insertion	1100	0	0	89	104.45769468749613
+insertion	1101	0	0	81	104.45101734374613
+insertion	1102	0	0	41	104.46036562499613
+insertion	1103	0	0	45	105.29236265624611
+insertion	1104	0	0	69	105.29636906249611
+insertion	1105	0	0	33	105.30304640624611
+insertion	1106	0	0	81	105.29770453124611
+insertion	1108	0	0	45	105.3951937499961
+insertion	1109	0	0	81	105.3951937499961
+insertion	1110	0	0	33	105.42056765624609
+insertion	1111	0	0	81	105.79716984374609
+insertion	1112	0	0	90	106.17243656249609
+insertion	1113	0	0	85	105.88664624999609
+insertion	1114	0	0	90	106.26725484374609
+insertion	1116	0	0	64	106.5690707812461
+insertion	1115	0	0	88	106.7279915624961
+insertion	1117	0	0	71	106.7173078124961
+insertion	1118	0	0	74	107.01378187499608
+insertion	1120	0	0	74	107.14065140624608
+insertion	1122	0	0	61	107.54529843749607
+insertion	1123	0	0	66	107.84043703124604
+insertion	1124	0	0	66	107.95528734374602
+insertion	1127	0	0	52	108.25843874999602
+insertion	1126	0	0	59	108.366611718746
+insertion	1128	0	0	62	108.66308578124598
+insertion	1129	0	0	62	108.76858781249598
+insertion	1130	0	0	80	109.07040374999598
+insertion	1132	0	0	61	109.17857671874597
+insertion	1140	0	0	81	109.96116140624589
+insertion	1134	0	0	82	109.59524296874592
+insertion	1136	0	0	67	109.85966578124591
+insertion	1137	0	0	82	109.85165296874591
+insertion	1143	0	0	67	110.23359703124588
+insertion	1144	0	0	79	110.24828718749588
+insertion	1145	0	0	64	110.23760343749588
+insertion	1146	0	0	91	110.24828718749588
+insertion	1147	0	0	67	110.33776359374586
+insertion	1148	0	0	64	110.33642812499586
+insertion	1149	0	0	91	110.34176999999586
+insertion	1150	0	0	88	110.67296624999587
+insertion	1155	0	0	79	110.33642812499586
+insertion	1151	0	0	45	110.77579734374586
+insertion	1152	0	0	91	110.76911999999587
+insertion	1154	0	0	85	111.09764531249586
+insertion	1156	0	0	88	111.18845718749586
+insertion	1157	0	0	79	111.51564703124585
+insertion	1158	0	0	61	111.59844609374585
+insertion	1159	0	0	82	111.60779437499585
+insertion	1160	0	0	81	111.94433249999584
+insertion	1161	0	0	77	112.04048624999584
+insertion	1162	0	0	62	112.03915078124584
+insertion	1165	0	0	81	112.46115890624581
+insertion	1166	0	0	82	112.5639899999958
+insertion	1167	0	0	81	112.63476984374579
+insertion	1168	0	0	82	112.71623343749579
+insertion	1169	0	0	53	112.75229109374578
+insertion	1170	0	0	81	112.76431031249578
+insertion	1171	0	0	82	112.82440640624579
+insertion	1173	0	0	57	112.84710937499578
+insertion	1172	0	0	81	112.87648968749578
+insertion	1174	0	0	50	113.15560265624579
+insertion	1176	0	0	89	113.26110468749579
+insertion	1177	0	0	91	113.34390374999577
+insertion	1178	0	0	89	113.41334812499578
+insertion	1179	0	0	91	113.48546343749578
+insertion	1180	0	0	89	113.59363640624578
+insertion	1181	0	0	55	113.62835859374577
+insertion	1182	0	0	91	113.60298468749578
+insertion	1183	0	0	47	113.62435218749577
+insertion	1184	0	0	89	113.67242906249577
+insertion	1185	0	0	86	113.96356124999576
+insertion	1186	0	0	31	114.07440515624575
+insertion	1187	0	0	89	114.06105046874575
+insertion	1188	0	0	43	114.07039874999575
+insertion	1189	0	0	83	114.38824031249574
+insertion	1190	0	0	86	114.46970390624574
+insertion	1192	0	0	59	114.89037656249573
+insertion	1193	0	0	80	114.88637015624573
+insertion	1194	0	0	79	115.18952156249573
+insertion	1195	0	0	76	115.29635906249572
+insertion	1196	0	0	60	115.29769453124572
+insertion	1198	0	0	60	115.6956642187457
+insertion	1199	0	0	81	115.6956642187457
+insertion	1200	0	0	83	115.7490829687457
+insertion	1201	0	0	81	115.86393328124569
+insertion	1202	0	0	83	115.92135843749568
+insertion	1203	0	0	81	116.00282203124569
+insertion	1205	0	0	80	116.01484124999568
+insertion	1206	0	0	57	116.07093093749567
+insertion	1207	0	0	81	116.08161468749567
+insertion	1209	0	0	53	116.45955234374567
+insertion	1210	0	0	93	116.47157156249567
+insertion	1211	0	0	95	116.53700953124566
+insertion	1212	0	0	93	116.63049234374566
+insertion	1213	0	0	95	116.69593031249566
+insertion	1214	0	0	93	116.77605843749565
+insertion	1215	0	0	41	116.79475499999565
+insertion	1216	0	0	92	116.78674218749565
+insertion	1217	0	0	93	116.87488312499563
+insertion	1218	0	0	92	116.90693437499563
+insertion	1219	0	0	40	116.90025703124563
+insertion	1220	0	0	52	116.89357968749563
+insertion	1221	0	0	76	117.4250962499956
+insertion	1222	0	0	79	117.5305982812456
+insertion	1223	0	0	77	117.8244014062456
+insertion	1229	0	0	77	117.95394187499558
+insertion	1224	0	0	57	118.24774499999555
+insertion	1226	0	0	58	118.38930468749552
+insertion	1227	0	0	57	118.67910140624548
+insertion	1228	0	0	65	118.69646249999548
+insertion	1233	0	0	59	118.80864187499546
+insertion	1234	0	0	56	118.82066109374546
+insertion	1231	0	0	77	119.24133374999542
+insertion	1232	0	0	76	119.52044671874538
+insertion	1236	0	0	61	120.07065984374533
+insertion	1237	0	0	57	120.07867265624533
+insertion	1244	0	0	76	119.67536109374537
+insertion	1238	0	0	64	120.3524437499953
+insertion	1240	0	0	57	120.47931328124528
+insertion	1241	0	0	53	120.46862953124528
+insertion	1242	0	0	67	120.76643906249527
+insertion	1243	0	0	64	120.77178093749527
+insertion	1246	0	0	67	120.87594749999525
+insertion	1247	0	0	74	120.89998593749525
+insertion	1248	0	0	69	121.16975062499522
+insertion	1249	0	0	65	121.17776343749522
+insertion	1250	0	0	74	121.64517749999516
+insertion	1253	0	0	65	121.32733593749519
+insertion	1254	0	0	69	121.3166521874952
+insertion	1251	0	0	77	121.75468593749514
+insertion	1252	0	0	82	122.05783734374512
+insertion	1255	0	0	65	122.47049718749508
+insertion	1256	0	0	62	122.47049718749508
+insertion	1261	0	0	82	122.1766940624951
+insertion	1265	0	0	67	122.98865906249505
+insertion	1266	0	0	64	123.01803937499504
+insertion	1262	0	0	73	123.28379765624504
+insertion	1264	0	0	81	123.68577374999504
+insertion	1267	0	0	81	123.80997234374503
+insertion	1268	0	0	65	123.83133984374503
+insertion	1270	0	0	38	124.16787796874502
+insertion	1271	0	0	41	124.28139281249501
+insertion	1272	0	0	39	124.568518593745
+insertion	1273	0	0	54	124.59656343749499
+insertion	1274	0	0	57	124.69271718749498
+insertion	1281	0	0	39	124.69672359374498
+insertion	1276	0	0	60	124.98652031249493
+insertion	1278	0	0	69	125.08668046874492
+insertion	1277	0	0	66	125.09469328124491
+insertion	1280	0	0	67	125.50468218749485
+insertion	1282	0	0	70	125.49266296874485
+insertion	1283	0	0	36	125.79447890624482
+insertion	1284	0	0	39	125.9106646874948
+insertion	1285	0	0	38	126.1804293749948
+insertion	1286	0	0	58	126.2111451562448
+insertion	1290	0	0	38	126.28593140624479
+insertion	1287	0	0	62	126.31264078124478
+insertion	1288	0	0	70	126.61178578124476
+insertion	1289	0	0	67	126.63048234374476
+insertion	1292	0	0	67	126.74266171874476
+insertion	1293	0	0	34	126.72663609374476
+insertion	1294	0	0	79	127.03245843749474
+insertion	1296	0	0	33	127.14730874999472
+insertion	1298	0	0	79	127.4451182812447
+insertion	1299	0	0	38	127.53459468749469
+insertion	1301	0	0	72	127.86846187499468
+insertion	1300	0	0	32	127.78566281249468
+insertion	1303	0	0	77	127.56263953124468
+insertion	1302	0	0	71	127.97129296874468
+insertion	1305	0	0	70	128.20900640624467
+insertion	1306	0	0	31	127.96194468749468
+insertion	1307	0	0	77	128.31450843749465
+insertion	1308	0	0	76	128.38795921874464
+insertion	1312	0	0	37	128.40532031249464
+insertion	1309	0	0	77	128.8620506249946
+insertion	1310	0	0	65	128.8727343749946
+insertion	1311	0	0	68	128.8713989062446
+insertion	1313	0	0	35	129.32145187499455
+insertion	1314	0	0	37	129.43763765624453
+insertion	1315	0	0	36	129.76082109374448
+insertion	1316	0	0	53	129.77284031249448
+insertion	1317	0	0	56	129.88635515624446
+insertion	1322	0	0	36	129.88769062499446
+insertion	1318	0	0	61	130.19618390624444
+insertion	1320	0	0	68	130.5901471874944
+insertion	1321	0	0	73	130.6943137499944
+insertion	1323	0	0	66	130.6969846874944
+insertion	1324	0	0	61	130.6956492187444
+insertion	1325	0	0	33	130.98945234374435
+insertion	1326	0	0	36	131.09361890624433
+insertion	1327	0	0	34	131.40211218749434
+insertion	1328	0	0	54	131.39142843749434
+insertion	1330	0	0	61	131.8027528124943
+insertion	1334	0	0	34	131.49425953124432
+insertion	1331	0	0	66	131.8882228124943
+insertion	1332	0	0	64	132.21140624999427
+insertion	1333	0	0	73	132.18870328124427
+insertion	1336	0	0	72	132.31156640624425
+insertion	1339	0	0	64	132.64142718749426
+insertion	1340	0	0	32	132.31023093749425
+insertion	1341	0	0	67	132.74559374999424
+insertion	1343	0	0	56	133.05141609374422
+insertion	1344	0	0	37	132.74960015624424
+insertion	1345	0	0	65	133.05408703124422
+insertion	1346	0	0	70	133.1462343749942
+insertion	1349	0	0	31	133.1542471874942
+insertion	1350	0	0	56	133.56156515624417
+insertion	1351	0	0	65	133.54553953124417
+insertion	1352	0	0	36	133.56156515624417
+insertion	1353	0	0	64	133.89142593749415
+insertion	1354	0	0	29	133.96487671874414
+insertion	1355	0	0	51	134.3241178124941
+insertion	1356	0	0	68	133.98357328124413
+insertion	1357	0	0	60	134.3321306249941
+insertion	1359	0	0	54	134.4309553124941
+insertion	1360	0	0	46	134.4202715624941
+insertion	1361	0	0	53	134.70339093749408
+insertion	1363	0	0	78	134.83827328124406
+insertion	1364	0	0	39	134.83693781249406
+insertion	1367	0	0	54	135.25761046874402
+insertion	1369	0	0	44	135.25360406249402
+insertion	1370	0	0	68	135.56343281249397
+insertion	1372	0	0	61	135.57678749999397
+insertion	1373	0	0	37	135.9320221874939
+insertion	1376	0	0	61	136.47555796874386
+insertion	1379	0	0	80	136.0308468749939
+insertion	1375	0	0	68	136.90157249999385
+insertion	1377	0	0	68	137.00974546874383
+insertion	1378	0	0	73	137.3302579687438
+insertion	1380	0	0	80	137.74959515624377
+insertion	1381	0	0	77	137.4250762499938
+insertion	1382	0	0	70	137.4544565624938
+insertion	1383	0	0	80	137.85910359374375
+insertion	1385	0	0	70	138.5936114062437
+insertion	1389	0	0	82	138.2971373437437
+insertion	1388	0	0	70	138.71246812499368
+insertion	1390	0	0	72	139.1371471874937
+insertion	1391	0	0	78	139.1304698437437
+insertion	1392	0	0	84	139.44029859374368
+insertion	1393	0	0	84	139.57918734374368
+insertion	1394	0	0	68	139.9958535937437
+insertion	1396	0	0	72	140.31770156249368
+insertion	1398	0	0	85	140.0425949999937
+insertion	1400	0	0	73	140.89195312499362
+insertion	1401	0	0	80	140.91064968749362
+insertion	1402	0	0	85	141.25386515624362
+insertion	1403	0	0	89	141.3954248437436
+insertion	1404	0	0	49	142.52256046874348
+insertion	1405	0	0	37	142.53190874999348
+insertion	1408	0	0	89	143.27843578124345
+insertion	1409	0	0	89	143.39195062499343
+insertion	1410	0	0	48	143.39996343749343
+insertion	1411	0	0	36	143.39061515624343
+insertion	1413	0	0	49	144.29072109374337
+insertion	1415	0	0	88	143.8660420312434
+insertion	1417	0	0	37	144.28805015624337
+insertion	1412	0	0	77	144.60856265624335
+insertion	1414	0	0	82	144.71940656249333
+insertion	1416	0	0	89	145.00252593749332
+insertion	1419	0	0	89	145.1240535937433
+insertion	1418	0	0	36	145.1374082812433
+insertion	1420	0	0	48	145.1454210937433
+insertion	1421	0	0	36	145.24958765624328
+insertion	1422	0	0	49	146.03484328124324
+insertion	1423	0	0	88	145.59948046874325
+insertion	1424	0	0	37	146.04152062499324
+insertion	1425	0	0	82	146.3700459374932
+insertion	1426	0	0	89	146.45551593749317
+insertion	1427	0	0	94	146.75599640624316
+insertion	1428	0	0	94	146.86817578124314
+insertion	1429	0	0	36	146.88553687499314
+insertion	1430	0	0	48	147.02041921874311
+insertion	1431	0	0	36	147.17266265624312
+insertion	1432	0	0	48	147.31155140624313
+insertion	1433	0	0	36	147.47047218749313
+insertion	1434	0	0	48	147.60936093749314
+insertion	1435	0	0	36	147.71486296874312
+insertion	1436	0	0	94	147.31689328124313
+insertion	1437	0	0	48	147.8697773437431
+insertion	1438	0	0	91	148.01133703124307
+insertion	1439	0	0	36	148.02335624999307
+insertion	1440	0	0	93	148.11416812499306
+insertion	1441	0	0	48	148.13286468749305
+insertion	1442	0	0	36	148.27442437499303
+insertion	1443	0	0	96	148.37057812499305
+insertion	1444	0	0	48	148.39061015624304
+insertion	1445	0	0	82	148.53216984374302
+insertion	1446	0	0	79	148.53617624999302
+insertion	1447	0	0	91	148.52415703124302
+insertion	1448	0	0	36	148.52148609374302
+insertion	1449	0	0	48	148.655032968743
+insertion	1450	0	0	88	148.805940937493
+insertion	1451	0	0	36	148.801934531243
+insertion	1452	0	0	81	148.922126718743
+insertion	1453	0	0	89	148.923462187493
+insertion	1454	0	0	48	148.919455781243
+insertion	1455	0	0	36	149.05834453124297
+insertion	1456	0	0	93	149.20257515624294
+insertion	1457	0	0	48	149.16651749999295
+insertion	1459	0	0	79	149.35081218749292
+insertion	1460	0	0	84	149.36283140624292
+insertion	1461	0	0	86	149.37485062499292
+insertion	1462	0	0	36	149.32143187499292
+insertion	1463	0	0	79	149.6165704687429
+insertion	1464	0	0	48	149.4496368749929
+insertion	1465	0	0	84	149.6232478124929
+insertion	1467	0	0	36	149.6366024999929
+insertion	1468	0	0	74	149.7380981249929
+insertion	1469	0	0	83	149.7367626562429
+insertion	1471	0	0	48	149.7461109374929
+insertion	1473	0	0	48	149.97046968749285
+insertion	1475	0	0	79	150.04258499999284
+insertion	1476	0	0	82	150.02255296874284
+insertion	1478	0	0	70	150.15877078124282
+insertion	1482	0	0	48	150.15476437499282
+insertion	1483	0	0	60	150.3150206249928
+insertion	1484	0	0	48	150.4392192187428
+insertion	1487	0	0	70	150.6355331249928
+insertion	1486	0	0	79	150.6569006249928
+insertion	1488	0	0	60	150.6328621874928
+insertion	1489	0	0	48	150.77442187499278
+insertion	1490	0	0	60	150.9106396874928
+insertion	1491	0	0	48	151.03483828124277
+insertion	1493	0	0	60	151.15235953124278
+insertion	1494	0	0	48	151.30994484374276
+insertion	1496	0	0	60	151.44616265624273
+insertion	1497	0	0	48	151.54098093749272
+insertion	1498	0	0	60	151.70924999999272
+insertion	1499	0	0	81	151.44082078124273
+insertion	1500	0	0	84	151.7626687499927
+insertion	1501	0	0	70	152.03643984374267
+insertion	1503	0	0	60	151.8601579687427
+insertion	1504	0	0	67	152.14861921874265
+insertion	1507	0	0	69	152.26747593749263
+insertion	1508	0	0	72	152.53991156249262
+insertion	1509	0	0	81	152.53857609374262
+insertion	1510	0	0	60	152.3943454687426
+insertion	1511	0	0	72	152.6654456249926
+insertion	1512	0	0	64	152.6667810937426
+insertion	1513	0	0	60	152.78029593749258
+insertion	1514	0	0	67	152.9231910937426
+insertion	1515	0	0	72	152.94188765624259
+insertion	1516	0	0	71	153.04204781249257
+insertion	1517	0	0	62	153.02602218749257
+insertion	1518	0	0	60	153.14354343749255
+insertion	1519	0	0	65	153.19295578124255
+insertion	1520	0	0	70	153.37725046874255
+insertion	1521	0	0	67	153.39861796874254
+insertion	1522	0	0	68	153.41597906249254
+insertion	1524	0	0	48	153.47340421874253
+insertion	1525	0	0	58	153.48675890624253
+insertion	1526	0	0	70	153.48141703124253
+insertion	1527	0	0	67	153.49744265624253
+insertion	1528	0	0	64	153.47340421874253
+insertion	1529	0	0	58	154.08771984374246
+insertion	1530	0	0	55	154.93707796874244
+insertion	1531	0	0	57	155.03990906249243
+insertion	1532	0	0	60	155.3657634374924
+insertion	1533	0	0	57	155.4685945312424
+insertion	1534	0	0	65	155.02922531249243
+insertion	1535	0	0	53	155.77441687499237
+insertion	1536	0	0	62	155.80246171874236
+insertion	1537	0	0	55	155.91197015624235
+insertion	1538	0	0	64	155.89861546874235
+insertion	1539	0	0	67	156.2177924999923
+insertion	1540	0	0	58	156.2191279687423
+insertion	1542	0	0	70	155.89594453124235
+insertion	1541	0	0	60	156.31528171874228
+insertion	1543	0	0	55	156.33130734374228
+insertion	1544	0	0	67	156.62644593749226
+insertion	1545	0	0	52	156.61843312499226
+insertion	1546	0	0	53	156.74797359374224
+insertion	1547	0	0	69	156.75197999999224
+insertion	1548	0	0	57	157.06180874999222
+insertion	1549	0	0	72	157.06180874999222
+insertion	1551	0	0	77	156.75465093749224
+insertion	1550	0	0	68	157.1673107812422
+insertion	1552	0	0	50	157.1726526562422
+insertion	1553	0	0	74	157.4424173437422
+insertion	1554	0	0	47	157.4303981249922
+insertion	1555	0	0	75	157.65609234374216
+insertion	1557	0	0	79	157.96057921874217
+insertion	1558	0	0	51	157.98728859374216
+insertion	1559	0	0	87	157.65475687499216
+insertion	1560	0	0	78	158.07409406249215
+insertion	1562	0	0	84	158.36255531249213
+insertion	1563	0	0	45	158.35854890624213
+insertion	1564	0	0	46	158.47339921874212
+insertion	1565	0	0	86	158.47339921874212
+insertion	1570	0	0	77	158.47740562499212
+insertion	1566	0	0	50	158.78055703124207
+insertion	1568	0	0	46	158.89006546874205
+insertion	1569	0	0	86	158.91143296874205
+insertion	1571	0	0	82	159.18253312499203
+insertion	1572	0	0	43	159.16784296874204
+insertion	1574	0	0	45	159.27735140624202
+insertion	1575	0	0	86	159.575160937492
+insertion	1576	0	0	77	159.573825468742
+insertion	1578	0	0	46	159.571154531242
+insertion	1581	0	0	72	159.71939156249198
+insertion	1583	0	0	81	159.73007531249198
+insertion	1584	0	0	60	160.04658140624196
+insertion	1589	0	0	81	160.13071593749194
+insertion	1587	0	0	60	160.14139968749194
+insertion	1588	0	0	72	160.15475437499194
+insertion	1593	0	0	81	160.61282015624192
+insertion	1595	0	0	41	160.62751031249192
+insertion	1596	0	0	70	161.06554406249188
+insertion	1597	0	0	69	161.24449687499185
+insertion	1598	0	0	72	161.24049046874185
+insertion	1599	0	0	70	161.5743576562418
+insertion	1600	0	0	74	161.5369645312418
+insertion	1602	0	0	69	161.6544857812418
+insertion	1603	0	0	89	161.23648406249185
+insertion	1605	0	0	74	161.92157953124175
+insertion	1606	0	0	88	161.93626968749174
+insertion	1609	0	0	86	162.04978453124173
+insertion	1611	0	0	74	162.33423937499168
+insertion	1613	0	0	84	162.43172859374167
+insertion	1626	0	0	79	162.92718749999162
+insertion	1618	0	0	29	162.91383281249162
+insertion	1620	0	0	43	163.20229406249157
+insertion	1621	0	0	31	163.21831968749157
+insertion	1622	0	0	45	163.31847984374156
+insertion	1623	0	0	33	163.31847984374156
+insertion	1624	0	0	82	162.91516828124162
+insertion	1625	0	0	46	163.60694109374154
+insertion	1627	0	0	34	163.62430218749154
+insertion	1631	0	0	77	163.73381062499152
+insertion	1632	0	0	50	164.0142590624915
+insertion	1633	0	0	38	164.0196009374915
+insertion	1634	0	0	52	164.1304448437415
+insertion	1635	0	0	40	164.1304448437415
+insertion	1637	0	0	79	164.13845765624148
+insertion	1640	0	0	43	164.53776281249145
+insertion	1641	0	0	55	164.54043374999145
+insertion	1643	0	0	45	164.84492062499143
+insertion	1644	0	0	47	164.86361718749143
+insertion	1650	0	0	77	164.55245296874145
+insertion	1645	0	0	46	164.9570999999914
+insertion	1646	0	0	58	164.95309359374141
+insertion	1648	0	0	59	165.2255292187414
+insertion	1649	0	0	47	165.2215228124914
+insertion	1651	0	0	60	165.34839234374138
+insertion	1652	0	0	48	165.34705687499138
+insertion	1654	0	0	48	165.64753734374136
+insertion	1655	0	0	36	165.63952453124136
+insertion	1656	0	0	76	165.34839234374138
+insertion	1657	0	0	29	165.93599859374132
+insertion	1660	0	0	70	166.29123328124126
+insertion	1667	0	0	89	166.48754718749123
+insertion	1668	0	0	74	167.14993968749113
+insertion	1669	0	0	88	167.16462984374112
+insertion	1670	0	0	76	167.2741382812411
+insertion	1672	0	0	86	167.2794801562411
+insertion	1673	0	0	77	167.56393499999106
+insertion	1674	0	0	84	167.53856109374107
+insertion	1675	0	0	84	167.67344343749104
+insertion	1677	0	0	79	167.68946906249104
+insertion	1679	0	0	81	167.95122093749106
+insertion	1680	0	0	29	168.14219296874103
+insertion	1681	0	0	41	168.282417187491
+insertion	1682	0	0	31	168.365216249991
+insertion	1683	0	0	43	168.49475671874097
+insertion	1684	0	0	33	168.56153015624096
+insertion	1689	0	0	79	168.19694718749102
+insertion	1685	0	0	45	168.66836765624095
+insertion	1686	0	0	34	168.76452140624093
+insertion	1688	0	0	46	168.84865593749092
+insertion	1691	0	0	81	168.9902156249909
+insertion	1693	0	0	48	169.08770484374088
+insertion	1694	0	0	38	169.18252312499087
+insertion	1695	0	0	50	169.29336703124085
+insertion	1696	0	0	40	169.39619812499083
+insertion	1697	0	0	52	169.49902921874082
+insertion	1699	0	0	79	169.40153999999083
+insertion	1700	0	0	41	169.6125440624908
+insertion	1701	0	0	53	169.71938156249078
+insertion	1702	0	0	43	169.81954171874077
+insertion	1703	0	0	55	169.93439203124075
+insertion	1704	0	0	45	170.01585562499073
+insertion	1705	0	0	57	170.11334484374072
+insertion	1706	0	0	46	170.2081631249907
+insertion	1711	0	0	77	169.83823828124076
+insertion	1708	0	0	58	170.3069878124907
+insertion	1709	0	0	45	170.42450906249067
+insertion	1710	0	0	47	170.40581249999067
+insertion	1712	0	0	59	170.50463718749066
+insertion	1713	0	0	47	170.64619687499064
+insertion	1716	0	0	48	170.63551312499064
+insertion	1717	0	0	60	170.73166687499062
+insertion	1718	0	0	58	170.92263890624062
+insertion	1719	0	0	46	170.85052359374063
+insertion	1720	0	0	45	171.1029271874906
+insertion	1721	0	0	96	171.1082690624906
+insertion	1723	0	0	57	171.1015917187406
+insertion	1727	0	0	60	172.09651593749055
+insertion	1728	0	0	75	172.09250953124055
+insertion	1729	0	0	57	172.09250953124055
+insertion	1730	0	0	74	173.07541453124054
+insertion	1732	0	0	58	173.08342734374054
+insertion	1736	0	0	74	173.3839078124905
+insertion	1737	0	0	58	173.3959270312405
+insertion	1740	0	0	69	173.49742265624047
+insertion	1741	0	0	60	173.49341624999047
+insertion	1743	0	0	65	173.79656765624046
+insertion	1742	0	0	60	173.78721937499046
+insertion	1744	0	0	69	173.79256124999046
+insertion	1745	0	0	72	173.77787109374046
+insertion	1749	0	0	70	174.17984718749042
+insertion	1746	0	0	71	173.88871499999044
+insertion	1747	0	0	62	173.90206968749044
+insertion	1748	0	0	68	173.89939874999044
+insertion	1750	0	0	64	174.19453734374042
+insertion	1752	0	0	65	174.2813428124904
+insertion	1753	0	0	81	174.5925070312404
+insertion	1756	0	0	77	174.60853265624038
+insertion	1757	0	0	77	174.71136374999037
+insertion	1759	0	0	81	174.68465437499037
+insertion	1761	0	0	77	174.99848953124035
+insertion	1762	0	0	80	174.97311562499036
+insertion	1763	0	0	70	175.06659843749034
+insertion	1764	0	0	71	174.96643828124036
+insertion	1765	0	0	79	175.07327578124034
+insertion	1768	0	0	76	175.35238874999033
+insertion	1769	0	0	70	175.35906609374032
+insertion	1772	0	0	84	175.34437593749033
+insertion	1770	0	0	69	175.4458715624903
+insertion	1773	0	0	77	175.4605617187403
+insertion	1782	0	0	69	176.25115921874024
+insertion	1776	0	0	48	176.15634093749026
+insertion	1779	0	0	65	176.16435374999025
+insertion	1784	0	0	48	176.25249468749024
+insertion	1781	0	0	65	176.27252671874024
+insertion	1785	0	0	65	176.53160765624023
+insertion	1786	0	0	68	176.52493031249023
+insertion	1787	0	0	58	176.6558062499902
+insertion	1790	0	0	48	176.6651545312402
+insertion	1791	0	0	58	176.9375901562402
+insertion	1792	0	0	76	176.9429320312402
+insertion	1793	0	0	72	176.9482739062402
+insertion	1796	0	0	77	177.04309218749017
+insertion	1795	0	0	72	177.05778234374017
+insertion	1797	0	0	57	177.04976953124017
+insertion	1798	0	0	74	177.33288890624016
+insertion	1799	0	0	53	177.05911781249017
+insertion	1803	0	0	48	177.73753593749012
+insertion	1801	0	0	69	177.72818765624012
+insertion	1802	0	0	81	177.72952312499012
+insertion	1806	0	0	77	177.73753593749012
+insertion	1808	0	0	81	177.8283478124901
+insertion	1810	0	0	48	177.8363606249901
+insertion	1811	0	0	77	177.8417024999901
+insertion	1812	0	0	48	178.1301637499901
+insertion	1813	0	0	68	178.1395120312401
+insertion	1814	0	0	80	178.1395120312401
+insertion	1815	0	0	36	178.1368410937401
+insertion	1819	0	0	79	178.23566578124007
+insertion	1817	0	0	48	178.24367859374007
+insertion	1818	0	0	36	178.25302687499007
+insertion	1822	0	0	36	178.58422312499005
+insertion	1823	0	0	88	178.58555859374005
+insertion	1825	0	0	89	178.76985328124002
+insertion	1826	0	0	77	178.76584687499002
+insertion	1827	0	0	29	178.75115671874002
+insertion	1828	0	0	88	178.77118874999002
+insertion	1829	0	0	81	178.75516312499002
+insertion	1830	0	0	41	178.75649859374002
+insertion	1832	0	0	65	180.20147578124
+insertion	1833	0	0	67	180.92129343748994
+insertion	1834	0	0	65	181.01744718748992
+insertion	1837	0	0	65	181.9041984374898
+insertion	1836	0	0	67	181.82006390623982
+insertion	1839	0	0	58	182.06846109373978
+insertion	1848	0	0	65	182.06579015623979
+insertion	1840	0	0	57	182.75889843748968
+insertion	1841	0	0	75	182.76824671873968
+insertion	1842	0	0	58	182.85238124998966
+insertion	1843	0	0	74	182.86573593748966
+insertion	1844	0	0	74	183.00195374998964
+insertion	1845	0	0	58	183.02866312498963
+insertion	1846	0	0	75	183.69105562498956
+insertion	1847	0	0	57	183.69239109373956
+insertion	1849	0	0	74	183.77786109373955
+insertion	1850	0	0	58	183.78720937498954
+insertion	1851	0	0	58	184.0316001562395
+insertion	1852	0	0	74	184.0088971874895
+insertion	1874	0	0	65	184.0169099999895
+insertion	1853	0	0	57	184.74206953123942
+insertion	1854	0	0	72	184.73806312498942
+insertion	1855	0	0	58	184.9757765624894
+insertion	1856	0	0	74	184.98245390623939
+insertion	1857	0	0	62	185.20280624998935
+insertion	1858	0	0	77	185.19879984373935
+insertion	1859	0	0	57	185.42048765623935
+insertion	1860	0	0	72	185.41381031248935
+insertion	1861	0	0	58	185.64217546873934
+insertion	1863	0	0	60	185.86386328123933
+insertion	1864	0	0	55	186.07753828123933
+insertion	1866	0	0	75	185.86920515623933
+insertion	1868	0	0	58	186.50889468748926
+insertion	1869	0	0	51	186.71856328123923
+insertion	1870	0	0	53	186.93490921873922
+insertion	1871	0	0	72	186.72924703123923
+insertion	1872	0	0	55	187.13790046873922
+insertion	1873	0	0	70	187.36225921873918
+insertion	1875	0	0	50	187.3448981249892
+insertion	1876	0	0	72	187.57860515623915
+insertion	1879	0	0	51	187.57326328123915
+insertion	1878	0	0	69	188.01797437498914
+insertion	1880	0	0	50	188.20493999998914
+insertion	1885	0	0	48	188.42662781248913
+insertion	1882	0	0	63	188.45066624998913
+insertion	1886	0	0	62	189.0796720312391
+insertion	1887	0	0	46	189.0983685937391
+insertion	1890	0	0	72	189.7046714062391
+insertion	1891	0	0	70	189.9143399999891
+insertion	1892	0	0	55	190.1159957812391
+insertion	1893	0	0	58	190.3296707812391
+insertion	1894	0	0	60	190.52865562498909
+insertion	1895	0	0	64	190.1427051562391
+insertion	1896	0	0	58	190.73565328123908
+insertion	1897	0	0	73	190.74500156248908
+insertion	1898	0	0	72	190.94799281248908
+insertion	1899	0	0	69	191.15231953123907
+insertion	1901	0	0	52	190.93997999998908
+insertion	1900	0	0	70	191.35263984373904
+insertion	1903	0	0	61	191.566314843739
+insertion	1908	0	0	82	191.77064156248898
+insertion	1904	0	0	60	191.77197703123898
+insertion	1906	0	0	58	192.18063046873897
+insertion	1907	0	0	70	192.37827984373894
+insertion	1909	0	0	76	192.37160249998894
+insertion	1910	0	0	79	192.6053095312389
+insertion	1911	0	0	82	192.8042943749889
+insertion	1913	0	0	70	192.6039740624889
+insertion	1912	0	0	84	193.0166339062389
+insertion	1914	0	0	85	193.21161234373886
+insertion	1915	0	0	64	193.22363156248886
+insertion	1916	0	0	67	193.43997749998886
+insertion	1917	0	0	70	193.65632343748885
+insertion	1918	0	0	72	193.84863093748885
+insertion	1919	0	0	84	193.44665484373886
+insertion	1920	0	0	73	194.04761578123882
+insertion	1921	0	0	82	194.04761578123882
+insertion	1922	0	0	82	194.25594890623879
+insertion	1926	0	0	72	194.2479360937388
+insertion	1924	0	0	84	194.67261515623878
+insertion	1925	0	0	70	194.85824531248878
+insertion	1927	0	0	88	194.86892906248877
+insertion	1929	0	0	70	195.06791390623874
+insertion	1928	0	0	89	195.07459124998874
+insertion	1931	0	0	69	195.26556328123874
+insertion	1930	0	0	77	195.47256093748874
+insertion	1932	0	0	72	195.47923828123874
+insertion	1935	0	0	70	195.87587249998873
+insertion	1936	0	0	69	196.07352187498873
+insertion	1937	0	0	65	196.29654515623872
+insertion	1938	0	0	72	196.29520968748872
+insertion	1942	0	0	65	197.13388406248865
+insertion	1944	0	0	60	197.14456781248865
+insertion	1948	0	0	65	198.4693528124885
+insertion	1947	0	0	67	198.3745345312385
+insertion	1949	0	0	65	198.61224796873847
+insertion	1951	0	0	65	199.3293946874884
+insertion	1952	0	0	74	199.48831546873836
+insertion	1953	0	0	58	199.51636031248836
+insertion	1955	0	0	75	200.1854301562383
+insertion	1956	0	0	58	200.2682292187383
+insertion	1959	0	0	58	200.45653031248827
+insertion	1960	0	0	75	201.1028971874882
+insertion	1961	0	0	57	201.1175873437382
+insertion	1964	0	0	58	201.22843124998818
+insertion	1966	0	0	74	201.50620874998816
+insertion	1965	0	0	58	201.50353781248816
+insertion	1967	0	0	57	202.28478703123807
+insertion	1968	0	0	72	202.26475499998807
+insertion	1969	0	0	58	202.49579109373803
+insertion	1970	0	0	74	202.50647484373803
+insertion	1972	0	0	77	202.730833593738
+insertion	1973	0	0	57	202.940502187488
+insertion	1975	0	0	72	202.936495781238
+insertion	1974	0	0	58	203.14482890623796
+insertion	1976	0	0	74	203.14749984373796
+insertion	1977	0	0	60	203.37185859373795
+insertion	1978	0	0	55	203.57885624998795
+insertion	1979	0	0	75	203.36251031248796
+insertion	1981	0	0	74	203.9835032812379
+insertion	1982	0	0	58	203.9808323437379
+insertion	1983	0	0	51	204.19450734373785
+insertion	1984	0	0	53	204.39749859373785
+insertion	1986	0	0	55	204.62319281248784
+insertion	1987	0	0	50	204.8235131249878
+insertion	1992	0	0	51	205.04653640623778
+insertion	1993	0	0	69	205.46720906248777
+insertion	1994	0	0	50	205.67687765623776
+insertion	1996	0	0	63	205.91058468748773
+insertion	1997	0	0	65	206.10823406248772
+insertion	1999	0	0	48	205.91592656248773
+insertion	2001	0	0	46	206.57030624998768
+insertion	2006	0	0	55	207.60662999998763
+insertion	2007	0	0	58	207.80828578123763
+insertion	2009	0	0	64	207.60262359373763
+insertion	2008	0	0	60	208.01661890623765
+insertion	2010	0	0	58	208.20358453123765
+insertion	2011	0	0	73	208.21026187498765
+insertion	2012	0	0	72	208.41993046873762
+insertion	2013	0	0	69	208.64295374998758
+insertion	2015	0	0	52	208.42260140623762
+insertion	2014	0	0	70	208.84060312498755
+insertion	2016	0	0	82	209.03157515623752
+insertion	2018	0	0	60	209.2465856249875
+insertion	2019	0	0	57	209.44824140623746
+insertion	2022	0	0	82	209.2479210937375
+insertion	2020	0	0	58	209.66458734373745
+insertion	2021	0	0	70	209.85422390623742
+insertion	2023	0	0	76	209.85956578123742
+insertion	2024	0	0	79	210.08793093748739
+insertion	2025	0	0	82	210.29225765623738
+insertion	2027	0	0	70	210.0745762499874
+insertion	2026	0	0	84	210.49524890623738
+insertion	2028	0	0	85	210.69289828123738
+insertion	2031	0	0	70	211.10288718748737
+insertion	2032	0	0	72	211.30187203123737
+insertion	2033	0	0	84	210.91592156248737
+insertion	2035	0	0	82	211.48616671873734
+insertion	2036	0	0	82	211.72254468748733
+insertion	2037	0	0	81	211.9242004687373
+insertion	2038	0	0	84	212.1285271874873
+insertion	2040	0	0	70	212.3194992187373
+insertion	2041	0	0	88	212.3261765624873
+insertion	2042	0	0	89	212.5211549999873
+insertion	2044	0	0	69	212.7161334374873
+insertion	2045	0	0	77	212.93915671873728
+insertion	2046	0	0	72	212.93247937498728
+insertion	2047	0	0	76	213.11543859373728
+insertion	2048	0	0	77	213.33445546873727
+insertion	2050	0	0	69	213.55881421873727
+insertion	2051	0	0	65	213.76714734373726
+insertion	2052	0	0	72	213.75646359373727
+insertion	2053	0	0	76	213.94342921873726
+insertion	2054	0	0	77	214.1624460937373
+insertion	2055	0	0	58	214.1651170312373
+insertion	2056	0	0	57	214.36276640623728
+insertion	2057	0	0	65	214.58846062498725
+insertion	2059	0	0	65	214.8128193749872
+insertion	2061	0	0	60	215.44449609373711
+insertion	2063	0	0	64	215.85047859373705
+insertion	2064	0	0	58	216.06014718748705
+insertion	2065	0	0	60	216.26447390623704
+insertion	2066	0	0	57	216.67179187498698
+insertion	2067	0	0	62	216.471471562487
+insertion	2069	0	0	72	217.12050937498694
+insertion	2070	0	0	58	216.90950531248694
+insertion	2071	0	0	74	217.3261715624869
+insertion	2072	0	0	57	217.50645984373688
+insertion	2073	0	0	76	217.52114999998687
+insertion	2077	0	0	55	217.75886343748687
+insertion	2076	0	0	74	218.17152328123686
+insertion	2078	0	0	53	218.36516624998686
+insertion	2079	0	0	69	218.36383078123686
+insertion	2080	0	0	55	218.59086046873682
+insertion	2081	0	0	53	218.8018645312368
+insertion	2082	0	0	53	218.9754754687368
+insertion	2083	0	0	70	218.59887328123682
+insertion	2084	0	0	61	219.18647953123676
+insertion	2085	0	0	69	219.18647953123676
+insertion	2086	0	0	62	219.38546437498673
+insertion	2087	0	0	61	219.58311374998672
+insertion	2089	0	0	67	219.39214171873672
+insertion	2088	0	0	62	219.81548531248671
+insertion	2090	0	0	50	219.9864253124867
+insertion	2091	0	0	65	219.9904317187367
+insertion	2092	0	0	67	220.21612593748665
+insertion	2094	0	0	51	220.19742937498665
+insertion	2093	0	0	65	220.41778171873665
+insertion	2095	0	0	65	220.62210843748662
+insertion	2096	0	0	50	220.8104095312366
+insertion	2097	0	0	73	220.8064031249866
+insertion	2098	0	0	74	221.04812296873655
+insertion	2099	0	0	73	221.23375312498655
+insertion	2101	0	0	48	221.04678749998655
+insertion	2100	0	0	74	221.45944734373654
+insertion	2102	0	0	62	221.6584321874865
+insertion	2103	0	0	46	221.6757932812365
+insertion	2105	0	0	46	222.13118812498644
+insertion	2106	0	0	46	222.3381857812364
+insertion	2107	0	0	75	221.92552593748647
+insertion	2108	0	0	54	222.5425124999864
+insertion	2109	0	0	74	222.5451834374864
+insertion	2110	0	0	55	222.7855678124864
+insertion	2111	0	0	54	222.9725334374864
+insertion	2112	0	0	72	222.7842323437364
+insertion	2113	0	0	55	223.1808665624864
+insertion	2114	0	0	43	223.37851593748636
+insertion	2115	0	0	70	223.37851593748636
+insertion	2116	0	0	72	223.63626140623634
+insertion	2117	0	0	70	223.80853687498632
+insertion	2118	0	0	70	224.01553453123628
+insertion	2119	0	0	78	224.21986124998625
+insertion	2120	0	0	63	224.40949781248625
+insertion	2121	0	0	79	224.42952984373625
+insertion	2122	0	0	78	224.6512176562362
+insertion	2123	0	0	58	224.8502024999862
+insertion	2124	0	0	60	225.0865804687362
+insertion	2125	0	0	79	224.8381832812362
+insertion	2126	0	0	58	225.19608890623618
+insertion	2128	0	0	67	225.0785676562362
+insertion	2127	0	0	57	225.25484953123618
+insertion	2129	0	0	75	225.27354609373617
+insertion	2130	0	0	70	225.7209281249861
+insertion	2131	0	0	72	226.0160667187361
+insertion	2132	0	0	70	226.1042076562361
+insertion	2133	0	0	64	225.7276054687361
+insertion	2134	0	0	65	226.1576264062361
+insertion	2135	0	0	69	226.1749874999861
+insertion	2136	0	0	60	226.63839515623607
+insertion	2137	0	0	62	226.87210218748606
+insertion	2138	0	0	60	226.98962343748605
+insertion	2139	0	0	59	227.02968749998604
+insertion	2140	0	0	76	226.60100203123608
+insertion	2142	0	0	72	227.46905671873603
+insertion	2144	0	0	72	227.846994374986
+insertion	2145	0	0	66	227.47439859373603
+insertion	2146	0	0	67	227.909761406236
+insertion	2147	0	0	71	227.91643874998599
+insertion	2148	0	0	63	228.35447249998597
+insertion	2149	0	0	62	228.56013468748594
+insertion	2150	0	0	78	228.33577593748598
+insertion	2151	0	0	63	228.80853187498593
+insertion	2154	0	0	75	229.23053999998592
+insertion	2155	0	0	59	229.4402085937359
+insertion	2156	0	0	74	229.4295248437359
+insertion	2158	0	0	75	229.68994124998585
+insertion	2160	0	0	72	230.11862671873578
+insertion	2159	0	0	57	230.12797499998578
+insertion	2161	0	0	56	230.33764359373578
+insertion	2162	0	0	71	230.32829531248578
+insertion	2163	0	0	57	230.56333781248574
+insertion	2166	0	0	68	231.19501453123567
+insertion	2168	0	0	63	230.9920232812357
+insertion	2167	0	0	69	231.41937328123564
+insertion	2171	0	0	63	232.03635984373554
+insertion	2172	0	0	75	231.83603953123557
+insertion	2173	0	0	57	232.2486993749855
+insertion	2174	0	0	79	232.4530260937355
+insertion	2175	0	0	72	232.6974168749855
+insertion	2176	0	0	66	232.7014232812355
+insertion	2177	0	0	75	232.9137628124855
+insertion	2178	0	0	69	233.19154031248547
+insertion	2180	0	0	78	233.79917859373543
+insertion	2181	0	0	77	234.6231628124854
+insertion	2182	0	0	79	234.76872890623537
+insertion	2183	0	0	77	234.87823734373535
+insertion	2184	0	0	79	234.95435906248534
+insertion	2185	0	0	77	235.03048078123533
+insertion	2186	0	0	79	235.07054484373532
+insertion	2188	0	0	77	235.1480020312353
+insertion	2189	0	0	58	234.5844342187354
+insertion	2190	0	0	79	235.2441557812353
+insertion	2191	0	0	77	235.32561937498528
+insertion	2192	0	0	79	235.38170906248527
+insertion	2195	0	0	77	235.45382437498526
+insertion	2197	0	0	79	235.53662343748525
+insertion	2207	0	0	60	235.9105546874852
+insertion	2203	0	0	62	235.70756343748522
+insertion	2198	0	0	77	235.64078999998523
+insertion	2200	0	0	79	235.70222156248522
+insertion	2201	0	0	65	235.71557624998522
+insertion	2202	0	0	77	235.7890270312352
+insertion	2204	0	0	79	235.8691551562352
+insertion	2210	0	0	58	236.09752031248516
+insertion	2215	0	0	60	236.28982781248513
+insertion	2209	0	0	77	236.14159078123515
+insertion	2213	0	0	77	236.29249874998513
+insertion	2208	0	0	79	236.06947546873516
+insertion	2211	0	0	79	236.21103515623514
+insertion	2212	0	0	62	236.09217843748516
+insertion	2216	0	0	77	236.4407357812351
+insertion	2214	0	0	79	236.35259484373512
+insertion	2217	0	0	79	236.5221993749851
+insertion	2218	0	0	63	236.29784062498513
+insertion	2219	0	0	55	236.5008318749851
+insertion	2222	0	0	79	236.75457093748506
+insertion	2220	0	0	77	236.67043640623507
+insertion	2223	0	0	77	236.86007296873504
+insertion	2224	0	0	62	236.88678234373504
+insertion	2225	0	0	58	236.88945328123503
+insertion	2227	0	0	77	237.039025781235
+insertion	2231	0	0	79	237.29142937498497
+insertion	2233	0	0	79	237.49442062498494
+insertion	2229	0	0	77	237.20863031248498
+insertion	2234	0	0	53	237.29142937498497
+insertion	2235	0	0	55	237.47572406248494
+insertion	2237	0	0	60	237.091109062485
+insertion	2236	0	0	77	237.60259359373492
+insertion	2241	0	0	77	237.7708626562349
+insertion	2240	0	0	79	237.6867281249849
+insertion	2239	0	0	58	237.6613542187349
+insertion	2243	0	0	77	237.93913171873487
+insertion	2246	0	0	77	238.11274265623484
+insertion	2251	0	0	77	238.3023792187348
+insertion	2242	0	0	79	237.84965531248488
+insertion	2244	0	0	79	238.01258249998486
+insertion	2247	0	0	67	238.11541359373484
+insertion	2248	0	0	79	238.19687718748483
+insertion	2249	0	0	69	238.28635359373482
+insertion	2250	0	0	63	237.90975140623488
+insertion	2252	0	0	79	238.4092167187348
+insertion	2254	0	0	79	238.58950499998477
+insertion	2256	0	0	62	238.50537046873478
+insertion	2259	0	0	77	238.82855390623473
+insertion	2262	0	0	77	238.9474106249847
+insertion	2258	0	0	79	238.74174843748474
+insertion	2260	0	0	63	238.71236812498475
+insertion	2263	0	0	65	238.89265640623472
+insertion	2269	0	0	62	239.28127781248466
+insertion	2270	0	0	58	239.29062609373466
+insertion	2273	0	0	51	239.9209673437346
+insertion	2274	0	0	53	240.12529406248458
+insertion	2275	0	0	51	240.31760156248458
+insertion	2276	0	0	60	240.5392893749846
+insertion	2277	0	0	63	240.7436160937346
+insertion	2279	0	0	45	240.5646632812346
+insertion	2278	0	0	65	240.9706457812346
+insertion	2280	0	0	54	241.15761140623457
+insertion	2281	0	0	63	241.16428874998456
+insertion	2282	0	0	53	241.38063468748453
+insertion	2283	0	0	50	241.59564515623453
+insertion	2284	0	0	57	241.38464109373453
+insertion	2285	0	0	51	241.8026428124845
+insertion	2286	0	0	63	242.02165968748446
+insertion	2287	0	0	66	242.01498234373446
+insertion	2288	0	0	63	242.23934109373445
+insertion	2289	0	0	65	242.22999281248445
+insertion	2290	0	0	62	242.43832593748442
+insertion	2291	0	0	63	242.6319689062344
+insertion	2292	0	0	75	242.83496015623436
+insertion	2294	0	0	60	243.06599624998432
+insertion	2295	0	0	63	243.2436135937343
+insertion	2296	0	0	65	243.45461765623426
+insertion	2297	0	0	75	243.05264156248433
+insertion	2298	0	0	66	243.65493796873426
+insertion	2300	0	0	72	243.85392281248423
+insertion	2301	0	0	75	244.06225593748422
+insertion	2302	0	0	65	243.84457453123423
+insertion	2303	0	0	77	244.26658265623422
+insertion	2304	0	0	63	244.44820640623422
+insertion	2305	0	0	78	244.45755468748422
+insertion	2306	0	0	63	244.66855874998421
+insertion	2307	0	0	62	244.8648726562342
+insertion	2309	0	0	77	244.6939326562342
+insertion	2310	0	0	75	245.24147484373418
+insertion	2313	0	0	75	245.46850453123415
+insertion	2315	0	0	58	245.87849343748414
+insertion	2319	0	0	51	246.2818049999841
+insertion	2320	0	0	50	246.45007406248408
+insertion	2321	0	0	70	246.69446484373407
+insertion	2322	0	0	53	246.69179390623407
+insertion	2323	0	0	57	246.87074671873404
+insertion	2324	0	0	58	247.108460156234
+insertion	2325	0	0	63	247.111131093734
+insertion	2326	0	0	62	247.31946421873397
+insertion	2328	0	0	65	247.56519046873396
+insertion	2329	0	0	69	247.81759406248395
+insertion	2331	0	0	72	249.0115031249839
+insertion	2332	0	0	70	249.1023149999839
+insertion	2333	0	0	70	249.21850078123387
+insertion	2334	0	0	72	249.86887406248377
+insertion	2335	0	0	70	249.96235687498375
+insertion	2336	0	0	70	250.11860671873373
+insertion	2339	0	0	69	250.79836031248365
+insertion	2340	0	0	77	250.79702484373365
+insertion	2342	0	0	67	250.86780468748364
+insertion	2343	0	0	76	250.91053968748363
+insertion	2344	0	0	67	250.99868062498362
+insertion	2345	0	0	76	250.99200328123362
+insertion	2346	0	0	70	250.98933234373362
+insertion	2348	0	0	77	251.70247265623357
+insertion	2350	0	0	67	251.80263281248355
+insertion	2351	0	0	76	251.82400031248355
+insertion	2354	0	0	76	252.07640390623354
+insertion	2352	0	0	67	252.10444874998353
+insertion	2356	0	0	77	252.7655057812335
+insertion	2358	0	0	67	252.86032406248347
+insertion	2359	0	0	76	252.85898859373347
+insertion	2361	0	0	76	252.99119999998345
+insertion	2364	0	0	68	253.6362314062334
+insertion	2368	0	0	76	253.7096821874834
+insertion	2370	0	0	82	254.0729296874834
+insertion	2371	0	0	36	254.0796070312334
+insertion	2373	0	0	37	254.72998031248338
+insertion	2375	0	0	36	254.78740546873337
+insertion	2377	0	0	82	254.82479859373336
+insertion	2378	0	0	82	254.94098437498334
+insertion	2379	0	0	36	254.97303562498334
+insertion	2380	0	0	37	255.6073832812333
+insertion	2383	0	0	36	255.68350499998328
+insertion	2384	0	0	80	255.6260798437333
+insertion	2385	0	0	82	255.71689171873328
+insertion	2386	0	0	76	255.85845140623326
+insertion	2388	0	0	79	255.84643218748326
+insertion	2389	0	0	36	255.85177406248326
+insertion	2392	0	0	82	255.84109031248326
+insertion	2390	0	0	37	256.51283109373355
+insertion	2391	0	0	36	256.60497843748357
+insertion	2394	0	0	80	256.7545509374837
+insertion	2395	0	0	36	256.77458296873374
+insertion	2396	0	0	37	257.431633593734
+insertion	2399	0	0	89	257.66934703123405
+insertion	2402	0	0	37	258.3624553124845
+insertion	2409	0	0	85	258.6028396874845
+insertion	2408	0	0	36	259.3974435937348
+insertion	2407	0	0	37	259.2906060937348
+insertion	2415	0	0	83	259.54701609373484
+insertion	2410	0	0	80	259.57506093748486
+insertion	2411	0	0	77	259.5763964062349
+insertion	2412	0	0	36	259.5924220312349
+insertion	2413	0	0	37	260.26149187498504
+insertion	2414	0	0	36	260.33761359373506
+insertion	2416	0	0	36	260.577997968735
+insertion	2419	0	0	76	260.5980299999851
+insertion	2420	0	0	79	260.6180620312351
+insertion	2421	0	0	84	260.57933343748505
+insertion	2417	0	0	37	261.22703578123526
+insertion	2418	0	0	36	261.3044929687353
+insertion	2422	0	0	36	261.5395354687354
+insertion	2423	0	0	48	261.7265010937356
+insertion	2424	0	0	36	261.8693962499856
+insertion	2425	0	0	48	261.9909239062356
+insertion	2426	0	0	36	262.1485092187356
+insertion	2427	0	0	48	262.2687014062356
+insertion	2428	0	0	36	262.3995773437356
+insertion	2430	0	0	94	262.0056140624856
+insertion	2429	0	0	48	262.5424724999856
+insertion	2431	0	0	36	262.7187543749856
+insertion	2432	0	0	91	262.72543171873565
+insertion	2433	0	0	48	262.8482948437357
+insertion	2434	0	0	36	262.98451265623567
+insertion	2435	0	0	93	262.8269273437357
+insertion	2436	0	0	48	263.1073757812357
+insertion	2437	0	0	96	263.1354206249857
+insertion	2438	0	0	36	263.2489354687358
+insertion	2440	0	0	91	263.2409226562358
+insertion	2439	0	0	48	263.39450156248586
+insertion	2441	0	0	88	263.5587642187359
+insertion	2442	0	0	36	263.5614351562359
+insertion	2443	0	0	48	263.67628546873595
+insertion	2444	0	0	89	263.66560171873596
+insertion	2445	0	0	36	263.799148593736
+insertion	2446	0	0	48	263.935366406236
+insertion	2447	0	0	93	263.980772343736
+insertion	2448	0	0	84	264.07024874998604
+insertion	2449	0	0	36	264.055558593736
+insertion	2450	0	0	48	264.1944473437361
+insertion	2451	0	0	84	264.3693937499861
+insertion	2452	0	0	79	264.3693937499861
+insertion	2453	0	0	76	264.38007749998616
+insertion	2454	0	0	36	264.3720646874861
+insertion	2455	0	0	74	264.47489578123634
+insertion	2456	0	0	77	264.4735603124863
+insertion	2457	0	0	83	264.46554749998626
+insertion	2458	0	0	48	264.48557953123634
+insertion	2459	0	0	36	264.64850671873637
+insertion	2460	0	0	79	264.7660279687364
+insertion	2461	0	0	82	264.7620215624864
+insertion	2462	0	0	76	264.7793826562364
+insertion	2463	0	0	48	264.7633570312364
+insertion	2464	0	0	79	264.8795428124865
+insertion	2465	0	0	82	264.8808782812365
+insertion	2466	0	0	36	264.8888910937365
+insertion	2467	0	0	48	265.00374140623654
+insertion	2468	0	0	36	265.12526906248655
+insertion	2469	0	0	76	264.8835492187365
+insertion	2471	0	0	48	265.26415781248653
+insertion	2470	0	0	76	265.34027953123655
+insertion	2472	0	0	79	265.3095637499865
+insertion	2473	0	0	36	265.4150657812366
+insertion	2474	0	0	82	265.3095637499865
+insertion	2475	0	0	48	265.5472771874866
+insertion	2476	0	0	77	265.6247343749866
+insertion	2477	0	0	76	265.72756546873666
+insertion	2478	0	0	36	265.73824921873666
+insertion	2479	0	0	48	265.85577046873675
+insertion	2480	0	0	79	266.0267104687367
+insertion	2481	0	0	36	266.0293814062367
+insertion	2482	0	0	77	266.12687062498674
+insertion	2483	0	0	81	266.13087703123676
+insertion	2484	0	0	48	266.14957359373676
+insertion	2485	0	0	36	266.27911406248677
+insertion	2486	0	0	84	266.3899579687368
+insertion	2487	0	0	72	266.4019771874868
+insertion	2488	0	0	48	266.38862249998675
+insertion	2489	0	0	79	266.5355240624869
+insertion	2490	0	0	70	266.5301821874869
+insertion	2491	0	0	36	266.5328531249869
+insertion	2492	0	0	48	266.65705171873697
+insertion	2493	0	0	72	266.83733999998697
+insertion	2494	0	0	76	266.83199812498697
+insertion	2495	0	0	36	266.84268187498697
+insertion	2496	0	0	69	266.94551296873703
+insertion	2497	0	0	77	266.94017109373704
+insertion	2498	0	0	48	266.9642095312371
+insertion	2499	0	0	36	267.1124465624871
+insertion	2500	0	0	72	267.2366451562371
+insertion	2501	0	0	81	267.2393160937371
+insertion	2502	0	0	48	267.2353096874871
+insertion	2503	0	0	72	267.33947624998723
+insertion	2504	0	0	36	267.35950828123725
+insertion	2505	0	0	48	267.46100390623724
+insertion	2506	0	0	65	267.62660203123727
+insertion	2507	0	0	62	267.6493049999873
+insertion	2508	0	0	71	267.6412921874873
+insertion	2509	0	0	36	267.63194390623727
+insertion	2510	0	0	48	267.7387814062374
+insertion	2511	0	0	64	267.7374459374874
+insertion	2512	0	0	70	267.7374459374874
+insertion	2513	0	0	69	268.2115373437376
+insertion	2514	0	0	57	268.21020187498755
+insertion	2515	0	0	60	268.2115373437376
+insertion	2516	0	0	41	268.2182146874876
+insertion	2517	0	0	65	268.2315693749876
+insertion	2518	0	0	29	268.2382467187376
+insertion	2519	0	0	29	268.3050201562378
+insertion	2520	0	0	41	268.3063556249878
+insertion	2521	0	0	57	268.31703937498787
+insertion	2522	0	0	65	268.3317295312379
+insertion	2523	0	0	60	268.31303296873784
+insertion	2524	0	0	41	268.68162234373796
+insertion	2525	0	0	53	268.756408593738
+insertion	2526	0	0	69	268.3090265624878
+insertion	2527	0	0	53	269.072914687488
+insertion	2528	0	0	65	269.150371874988
+insertion	2529	0	0	65	269.45352328123806
+insertion	2530	0	0	69	269.54299968748813
+insertion	2531	0	0	41	269.57371546873816
+insertion	2532	0	0	74	269.86084124998814
+insertion	2533	0	0	41	269.88354421873817
+insertion	2534	0	0	40	269.9489821874882
+insertion	2535	0	0	72	269.9943881249883
+insertion	2536	0	0	67	269.9556595312382
+insertion	2537	0	0	74	269.96367234373827
+insertion	2538	0	0	64	270.39769968748834
+insertion	2539	0	0	72	270.3936932812383
+insertion	2540	0	0	71	270.69550921873844
+insertion	2541	0	0	64	270.71287031248846
+insertion	2542	0	0	63	270.7836501562385
+insertion	2543	0	0	73	270.7929984374885
+insertion	2544	0	0	66	270.79967578123853
+insertion	2545	0	0	69	271.09748531248863
+insertion	2546	0	0	72	271.1896326562387
+insertion	2547	0	0	39	271.17627796873865
+insertion	2548	0	0	69	271.47141656248874
+insertion	2549	0	0	78	271.4674101562387
+insertion	2550	0	0	39	271.48877765623877
+insertion	2551	0	0	38	271.56623484373875
+insertion	2552	0	0	78	271.5755831249888
+insertion	2557	0	0	70	271.5822604687388
+insertion	2559	0	0	65	271.58760234373887
+insertion	2553	0	0	62	272.0096104687389
+insertion	2554	0	0	77	271.9869074999889
+insertion	2555	0	0	76	272.2820460937389
+insertion	2556	0	0	62	272.3060845312389
+insertion	2558	0	0	61	272.3835417187389
+insertion	2560	0	0	77	272.38487718748894
+insertion	2561	0	0	70	272.70939609373903
+insertion	2562	0	0	77	272.797537031239
+insertion	2563	0	0	37	272.80421437498904
+insertion	2564	0	0	82	273.10469484373914
+insertion	2565	0	0	37	273.11537859373914
+insertion	2566	0	0	36	273.19951312498915
+insertion	2567	0	0	76	273.2235515624892
+insertion	2568	0	0	82	273.19951312498915
+insertion	2569	0	0	67	273.7777710937393
+insertion	2570	0	0	65	274.1009545312394
+insertion	2571	0	0	73	273.7937967187393
+insertion	2572	0	0	82	273.7630809374893
+insertion	2574	0	0	64	274.2011146874894
+insertion	2589	0	0	60	273.7577390624893
+insertion	2573	0	0	79	274.4735503124895
+insertion	2575	0	0	81	274.5884006249897
+insertion	2576	0	0	65	274.6097681249897
+insertion	2578	0	0	72	274.6084326562397
+insertion	2577	0	0	84	274.86083624998986
+insertion	2579	0	0	69	274.87953281248986
+insertion	2582	0	0	70	274.99171218748995
+insertion	2580	0	0	73	275.01040874998995
+insertion	2581	0	0	79	274.99972499998995
+insertion	2583	0	0	67	275.28284437499
+insertion	2584	0	0	76	275.27616703124
+insertion	2586	0	0	77	275.36564343749006
+insertion	2585	0	0	72	275.37632718749006
+insertion	2587	0	0	69	275.37365624999006
+insertion	2588	0	0	81	275.6581110937401
+insertion	2590	0	0	65	275.7101943749901
+insertion	2591	0	0	72	275.75159390624015
+insertion	2592	0	0	67	275.7636131249902
+insertion	2593	0	0	67	276.05340984374016
+insertion	2594	0	0	72	276.05608078124015
+insertion	2595	0	0	63	276.0734418749902
+insertion	2596	0	0	62	276.1335379687402
+insertion	2597	0	0	71	276.1295315624902
+insertion	2598	0	0	65	276.1535699999902
+insertion	2599	0	0	61	276.41932828124027
+insertion	2600	0	0	65	276.41665734374027
+insertion	2601	0	0	70	276.4206637499903
+insertion	2602	0	0	70	276.51948843749034
+insertion	2603	0	0	64	276.52349484374037
+insertion	2611	0	0	48	276.52883671874037
+insertion	2604	0	0	55	277.0176182812404
+insertion	2605	0	0	53	277.32344062499044
+insertion	2606	0	0	61	277.0323084374904
+insertion	2607	0	0	70	277.0176182812404
+insertion	2608	0	0	52	277.42627171874045
+insertion	2609	0	0	67	277.7334295312405
+insertion	2610	0	0	53	277.8496153124906
+insertion	2612	0	0	69	277.84827984374056
+insertion	2613	0	0	60	277.8616345312406
+insertion	2614	0	0	72	278.15810859374074
+insertion	2615	0	0	52	278.2756298437409
+insertion	2616	0	0	46	278.27162343749086
+insertion	2617	0	0	67	278.26761703124083
+insertion	2618	0	0	66	278.5761103124909
+insertion	2619	0	0	60	278.2876490624909
+insertion	2620	0	0	45	278.69496703124105
+insertion	2621	0	0	53	278.68962515624105
+insertion	2622	0	0	60	278.688289687491
+insertion	2623	0	0	65	278.684283281241
+insertion	2624	0	0	72	278.96740265624123
+insertion	2625	0	0	54	278.97808640624123
+insertion	2626	0	0	60	278.98075734374123
+insertion	2627	0	0	44	278.98075734374123
+insertion	2628	0	0	55	279.0875948437413
+insertion	2629	0	0	43	279.0875948437413
+insertion	2630	0	0	64	279.09026578124127
+insertion	2631	0	0	60	279.0849239062413
+insertion	2632	0	0	63	279.38807531249137
+insertion	2633	0	0	54	279.5029256249914
+insertion	2634	0	0	42	279.50426109374143
+insertion	2635	0	0	60	279.5002546874914
+insertion	2636	0	0	62	279.4975837499914
+insertion	2637	0	0	69	279.8114189062415
+insertion	2638	0	0	62	279.8221026562415
+insertion	2639	0	0	54	279.8247735937415
+insertion	2640	0	0	42	279.87552140624155
+insertion	2641	0	0	60	279.8514829687415
+insertion	2642	0	0	43	279.9369529687416
+insertion	2643	0	0	60	279.9436303124916
+insertion	2644	0	0	55	279.95564953124165
+insertion	2645	0	0	64	279.9342820312416
+insertion	2646	0	0	63	280.23876890624166
+insertion	2647	0	0	62	280.34159999999184
+insertion	2648	0	0	43	280.3349226562418
+insertion	2650	0	0	31	280.3335871874918
+insertion	2649	0	0	59	280.35762562499184
+insertion	2651	0	0	31	280.6193774999919
+insertion	2652	0	0	43	280.63940953124194
+insertion	2653	0	0	59	280.655435156242
+insertion	2654	0	0	67	280.65142874999196
+insertion	2655	0	0	48	280.75559531249206
+insertion	2656	0	0	36	280.7636081249921
+insertion	2657	0	0	33	281.0373792187422
+insertion	2658	0	0	45	281.0333728124922
+insertion	2659	0	0	60	280.7622726562421
+insertion	2660	0	0	31	281.14688765624226
+insertion	2661	0	0	43	281.15222953124226
+insertion	2662	0	0	76	281.45404546874227
+insertion	2663	0	0	72	281.4660646874923
+insertion	2664	0	0	67	281.4740774999923
+insertion	2668	0	0	55	281.4834257812423
+insertion	2665	0	0	72	281.57557312499245
+insertion	2666	0	0	67	281.57824406249244
+insertion	2667	0	0	76	281.56756031249245
+insertion	2669	0	0	66	281.84667328124243
+insertion	2670	0	0	75	281.8426668749924
+insertion	2671	0	0	71	281.95217531249256
+insertion	2672	0	0	74	281.94015609374253
+insertion	2673	0	0	65	281.9535107812426
+insertion	2674	0	0	55	281.9668654687426
+insertion	2675	0	0	79	282.22327546874266
+insertion	2676	0	0	65	282.2272818749927
+insertion	2677	0	0	55	282.22594640624266
+insertion	2678	0	0	72	282.3354548437428
+insertion	2679	0	0	69	282.639941718743
+insertion	2680	0	0	64	282.34747406249284
+insertion	2681	0	0	60	282.35281593749284
+insertion	2682	0	0	67	282.75746296874314
+insertion	2683	0	0	57	283.0205503124933
+insertion	2684	0	0	53	283.0285631249933
+insertion	2685	0	0	48	283.0365759374933
+insertion	2686	0	0	48	283.13540062499345
+insertion	2687	0	0	53	283.1287232812434
+insertion	2688	0	0	57	283.11536859374337
+insertion	2689	0	0	56	283.4011589062436
+insertion	2690	0	0	52	283.4492357812436
+insertion	2691	0	0	55	283.5120028124937
+insertion	2692	0	0	48	283.5160092187437
+insertion	2693	0	0	64	283.81114781249386
+insertion	2694	0	0	76	283.80714140624383
+insertion	2695	0	0	55	283.80847687499386
+insertion	2696	0	0	60	283.8124832812439
+insertion	2697	0	0	48	283.8124832812439
+insertion	2698	0	0	77	283.925998124994
+insertion	2699	0	0	65	283.936681874994
+insertion	2700	0	0	74	284.1877499999941
+insertion	2701	0	0	62	284.2104529687441
+insertion	2702	0	0	53	283.909972499994
+insertion	2703	0	0	72	284.30393578124415
+insertion	2704	0	0	60	284.31729046874415
+insertion	2705	0	0	74	284.34800624999417
+insertion	2706	0	0	81	284.60040984374416
+insertion	2707	0	0	72	284.6097581249942
+insertion	2708	0	0	60	284.6124290624942
+insertion	2709	0	0	77	284.6177709374942
+insertion	2710	0	0	77	284.71392468749434
+insertion	2711	0	0	72	284.71659562499434
+insertion	2712	0	0	81	284.70591187499434
+insertion	2713	0	0	60	284.6912217187443
+insertion	2714	0	0	80	284.9957085937445
+insertion	2715	0	0	71	285.0050568749945
+insertion	2716	0	0	70	285.07183031249457
+insertion	2717	0	0	79	285.0798431249946
+insertion	2718	0	0	76	285.1386037499947
+insertion	2719	0	0	48	285.37364624999464
+insertion	2720	0	0	84	285.37631718749464
+insertion	2721	0	0	60	285.38566546874466
+insertion	2722	0	0	65	285.50051578124476
+insertion	2723	0	0	53	285.49918031249473
+insertion	2724	0	0	69	285.50051578124476
+insertion	2725	0	0	53	285.8009962499948
+insertion	2726	0	0	77	285.4925029687447
+insertion	2727	0	0	41	285.91718203124486
+insertion	2728	0	0	69	286.2336881249949
+insertion	2729	0	0	81	286.2363590624949
+insertion	2730	0	0	45	286.2457073437449
+insertion	2731	0	0	33	286.25772656249495
+insertion	2732	0	0	75	286.28844234374503
+insertion	2733	0	0	69	286.3365192187451
+insertion	2734	0	0	81	286.3338482812451
+insertion	2735	0	0	33	286.3605576562451
+insertion	2736	0	0	45	286.3445320312451
+insertion	2737	0	0	81	286.7091149999951
+insertion	2738	0	0	90	287.11776843749516
+insertion	2739	0	0	85	286.8025978124951
+insertion	2740	0	0	90	287.23128328124517
+insertion	2742	0	0	64	287.51039624999515
+insertion	2741	0	0	88	287.65195593749513
+insertion	2743	0	0	71	287.66664609374516
+insertion	2744	0	0	74	287.93908171874534
+insertion	2746	0	0	74	288.0472546874954
+insertion	2745	0	0	57	288.3504060937457
+insertion	2747	0	0	73	288.4719337499957
+insertion	2748	0	0	61	288.4759401562457
+insertion	2749	0	0	66	288.7684078124958
+insertion	2750	0	0	66	288.9006192187459
+insertion	2753	0	0	52	289.1877449999959
+insertion	2751	0	0	64	289.31327906249595
+insertion	2752	0	0	59	289.33464656249595
+insertion	2754	0	0	62	289.6257787499962
+insertion	2755	0	0	62	289.7299453124962
+insertion	2756	0	0	80	290.0264193749963
+insertion	2757	0	0	81	290.1225731249964
+insertion	2758	0	0	82	290.44041468749657
+insertion	2759	0	0	61	290.1292504687464
+insertion	2760	0	0	82	290.5392393749967
+insertion	2761	0	0	82	290.82502968749674
+insertion	2762	0	0	88	290.82636515624677
+insertion	2763	0	0	67	290.83437796874676
+insertion	2764	0	0	70	290.82235874999674
+insertion	2765	0	0	81	290.92652531249695
+insertion	2767	0	0	89	290.9251898437469
+insertion	2768	0	0	65	290.930531718747
+insertion	2766	0	0	69	290.934538124997
+insertion	2769	0	0	67	291.2176574999971
+insertion	2770	0	0	79	291.22967671874716
+insertion	2771	0	0	64	291.2243348437471
+insertion	2772	0	0	91	291.22834124999713
+insertion	2773	0	0	67	291.31648218749723
+insertion	2774	0	0	64	291.3151467187472
+insertion	2775	0	0	91	291.33117234374726
+insertion	2776	0	0	88	291.65302031249735
+insertion	2781	0	0	79	291.3244949999972
+insertion	2777	0	0	45	291.7678706249974
+insertion	2778	0	0	91	291.76653515624736
+insertion	2779	0	0	57	291.76386421874736
+insertion	2780	0	0	85	292.0763639062474
+insertion	2782	0	0	88	292.16851124999744
+insertion	2783	0	0	79	292.48234640624753
+insertion	2784	0	0	61	292.5891839062475
+insertion	2785	0	0	82	292.5865129687475
+insertion	2786	0	0	81	292.8963417187477
+insertion	2787	0	0	62	292.9991728124977
+insertion	2788	0	0	77	293.0045146874977
+insertion	2789	0	0	57	293.30633062499777
+insertion	2790	0	0	62	293.4104971874978
+insertion	2791	0	0	81	293.41984546874784
+insertion	2792	0	0	82	293.4932962499979
+insertion	2793	0	0	81	293.5854435937479
+insertion	2794	0	0	82	293.658894374998
+insertion	2795	0	0	53	293.70964218749805
+insertion	2796	0	0	81	293.72032593749805
+insertion	2797	0	0	82	293.77240921874807
+insertion	2798	0	0	57	293.8004540624981
+insertion	2799	0	0	81	293.8271634374981
+insertion	2800	0	0	50	294.1156246874982
+insertion	2801	0	0	57	294.2184557812482
+insertion	2802	0	0	89	294.2184557812482
+insertion	2803	0	0	91	294.2865646874983
+insertion	2804	0	0	89	294.36669281249834
+insertion	2805	0	0	91	294.4374726562484
+insertion	2806	0	0	48	294.50958796874846
+insertion	2807	0	0	55	294.5817032812485
+insertion	2808	0	0	91	294.5403037499985
+insertion	2809	0	0	47	294.5870451562485
+insertion	2810	0	0	89	294.5683485937485
+insertion	2811	0	0	86	294.91957687499865
+insertion	2812	0	0	31	295.0117242187488
+insertion	2813	0	0	43	295.0090532812487
+insertion	2814	0	0	89	295.01038874999875
+insertion	2815	0	0	83	295.33757859374884
+insertion	2816	0	0	86	295.41770671874883
+insertion	2817	0	0	74	295.73154187499887
+insertion	2818	0	0	59	295.82235374999885
+insertion	2819	0	0	80	295.8236892187489
+insertion	2820	0	0	79	296.125505156249
+insertion	2821	0	0	76	296.23234265624905
+insertion	2822	0	0	60	296.2363490624991
+insertion	2823	0	0	55	296.53015218749914
+insertion	2824	0	0	81	296.64767343749924
+insertion	2825	0	0	60	296.64900890624926
+insertion	2826	0	0	83	296.69575031249934
+insertion	2827	0	0	81	296.8052587499994
+insertion	2828	0	0	83	296.86401937499943
+insertion	2829	0	0	81	296.9361346874994
+insertion	2830	0	0	53	296.94014109374945
+insertion	2831	0	0	80	296.9588376562495
+insertion	2832	0	0	81	297.03095296874955
+insertion	2833	0	0	57	297.0282820312495
+insertion	2834	0	0	50	297.3154078124997
+insertion	2835	0	0	53	297.4195743749997
+insertion	2836	0	0	93	297.4315935937497
+insertion	2837	0	0	95	297.5023734374998
+insertion	2838	0	0	93	297.58784343749977
+insertion	2839	0	0	95	297.6559523437498
+insertion	2840	0	0	92	297.7507706249998
+insertion	2841	0	0	41	297.78549281249985
+insertion	2842	0	0	93	297.80953124999985
+insertion	2843	0	0	92	297.8816465624999
+insertion	2844	0	0	40	297.8843174999999
+insertion	2845	0	0	52	297.88031109374987
+insertion	2846	0	0	76	298.423846875
+insertion	2847	0	0	79	298.52400703125005
+insertion	2848	0	0	77	298.8445195312501
+insertion	2854	0	0	77	298.9633762500002
+insertion	2849	0	0	57	299.27053406250036
+insertion	2850	0	0	62	299.44147406250033
+insertion	2851	0	0	58	299.44414500000033
+insertion	2852	0	0	57	299.7272643750006
+insertion	2853	0	0	65	299.7165806250005
+insertion	2856	0	0	59	299.83543734375064
+insertion	2857	0	0	56	299.84745656250067
+insertion	2855	0	0	75	300.1359178125007
+insertion	2858	0	0	77	300.2614518750007
+insertion	2859	0	0	76	300.5165264062509
+insertion	2869	0	0	76	300.64206046875097
+insertion	2860	0	0	55	300.95055375000095
+insertion	2861	0	0	57	301.041365625001
+insertion	2862	0	0	61	301.053384843751
+insertion	2863	0	0	64	301.3351687500011
+insertion	2864	0	0	55	301.34985890625114
+insertion	2865	0	0	53	301.4446771875012
+insertion	2866	0	0	57	301.4393353125012
+insertion	2867	0	0	67	301.7304675000014
+insertion	2868	0	0	64	301.72646109375137
+insertion	2870	0	0	70	301.8560015625015
+insertion	2871	0	0	67	301.84398234375146
+insertion	2872	0	0	74	301.8653498437515
+insertion	2873	0	0	69	302.1417918750017
+insertion	2874	0	0	65	302.1444628125017
+insertion	2875	0	0	74	302.59451578125174
+insertion	2878	0	0	69	302.2699968750017
+insertion	2879	0	0	65	302.2833515625017
+insertion	2876	0	0	77	302.70001781250176
+insertion	2877	0	0	82	303.01652390625173
+insertion	2880	0	0	65	303.4185000000019
+insertion	2881	0	0	62	303.41983546875196
+insertion	2882	0	0	69	303.52667296875205
+insertion	2886	0	0	82	303.1327096875018
+insertion	2883	0	0	65	303.5493759375021
+insertion	2884	0	0	67	303.8097923437523
+insertion	2885	0	0	64	303.8178051562523
+insertion	2887	0	0	73	304.22912953125257
+insertion	2890	0	0	67	303.9353264062525
+insertion	2891	0	0	64	303.9446746875025
+insertion	2888	0	0	76	304.3426443750026
+insertion	2889	0	0	81	304.6524731250026
+insertion	2892	0	0	65	304.7820135937526
+insertion	2893	0	0	81	304.7659879687526
+insertion	2894	0	0	62	304.79269734375265
+insertion	2895	0	0	38	305.1265645312527
+insertion	2896	0	0	41	305.2507631250028
+insertion	2897	0	0	39	305.5205278125028
+insertion	2898	0	0	54	305.5485726562528
+insertion	2899	0	0	57	305.6620875000028
+insertion	2907	0	0	39	305.6701003125028
+insertion	2900	0	0	66	305.95054875000295
+insertion	2901	0	0	60	305.96390343750295
+insertion	2902	0	0	66	306.07341187500305
+insertion	2903	0	0	69	306.06539906250305
+insertion	2904	0	0	72	306.35519578125337
+insertion	2905	0	0	67	306.4847362500035
+insertion	2906	0	0	70	306.47805890625347
+insertion	2908	0	0	36	306.7745329687537
+insertion	2909	0	0	39	306.8893832812538
+insertion	2910	0	0	38	307.1604834375038
+insertion	2911	0	0	58	307.1965410937538
+insertion	2912	0	0	62	307.30070765625396
+insertion	2913	0	0	70	307.6038590625041
+insertion	2914	0	0	67	307.6305684375041
+insertion	2915	0	0	38	307.28067562500394
+insertion	2916	0	0	34	307.7093610937541
+insertion	2917	0	0	74	307.7173739062541
+insertion	2918	0	0	67	307.73206406250415
+insertion	2919	0	0	79	308.02853812500433
+insertion	2920	0	0	33	308.1500657812544
+insertion	2921	0	0	79	308.4465398437546
+insertion	2922	0	0	72	308.1540721875044
+insertion	2923	0	0	38	308.5346807812546
+insertion	2924	0	0	32	308.73366562500485
+insertion	2925	0	0	72	308.87656078125485
+insertion	2926	0	0	77	308.57073843750464
+insertion	2927	0	0	71	308.9740500000049
+insertion	2928	0	0	31	308.96069531250487
+insertion	2929	0	0	67	309.21443437500506
+insertion	2930	0	0	70	309.2157698437551
+insertion	2931	0	0	31	309.20241515625503
+insertion	2932	0	0	77	309.3186009375051
+insertion	2933	0	0	76	309.40407093750514
+insertion	2937	0	0	37	309.41742562500514
+insertion	2934	0	0	77	309.86347218750524
+insertion	2935	0	0	65	309.86747859375527
+insertion	2936	0	0	68	309.86747859375527
+insertion	2938	0	0	35	310.3388990625054
+insertion	2939	0	0	37	310.46042671875546
+insertion	2940	0	0	36	310.7836101562557
+insertion	2941	0	0	53	310.77960375000566
+insertion	2942	0	0	56	310.8877767187558
+insertion	2946	0	0	36	310.8944540625058
+insertion	2943	0	0	61	311.20161187500594
+insertion	2944	0	0	65	311.292423750006
+insertion	2945	0	0	68	311.60759437500604
+insertion	2947	0	0	73	311.70909000000603
+insertion	2948	0	0	66	311.7144318750061
+insertion	2949	0	0	61	311.71042546875606
+insertion	2950	0	0	33	311.99621578125607
+insertion	2951	0	0	36	312.10705968750625
+insertion	2952	0	0	34	312.41822390625623
+insertion	2953	0	0	54	312.41288203125623
+insertion	2954	0	0	58	312.51571312500636
+insertion	2955	0	0	61	312.8135226562564
+insertion	2959	0	0	34	312.51170671875633
+insertion	2956	0	0	66	312.90032812500647
+insertion	2957	0	0	64	313.21416328125656
+insertion	2958	0	0	73	313.19413125000654
+insertion	2960	0	0	72	313.30363968750675
+insertion	2961	0	0	65	313.3023042187567
+insertion	2962	0	0	77	313.3076460937568
+insertion	2963	0	0	55	313.6628807812569
+insertion	2964	0	0	32	313.3023042187567
+insertion	2965	0	0	64	313.6575389062569
+insertion	2966	0	0	59	313.76437640625704
+insertion	2967	0	0	67	313.75636359375704
+insertion	2968	0	0	56	314.0568440625071
+insertion	2969	0	0	37	313.752357187507
+insertion	2970	0	0	65	314.0715342187571
+insertion	2971	0	0	70	314.1476559375072
+insertion	2974	0	0	31	314.1583396875072
+insertion	2972	0	0	53	314.4614910937573
+insertion	2973	0	0	62	314.45481375000725
+insertion	2975	0	0	56	314.5616512500073
+insertion	2976	0	0	65	314.5669931250073
+insertion	2977	0	0	36	314.5790123437573
+insertion	2978	0	0	64	314.89017656250746
+insertion	2979	0	0	29	314.97698203125753
+insertion	2980	0	0	51	315.3188620312577
+insertion	2981	0	0	68	314.99434312500756
+insertion	2982	0	0	60	315.33622312500773
+insertion	2983	0	0	63	315.4056675000078
+insertion	2984	0	0	54	315.4110093750078
+insertion	2985	0	0	46	315.4150157812578
+insertion	2986	0	0	53	315.71282531250785
+insertion	2987	0	0	70	315.71549625000785
+insertion	2988	0	0	78	315.82500468750794
+insertion	2989	0	0	39	315.83034656250794
+insertion	2990	0	0	51	316.13483343750806
+insertion	2991	0	0	60	316.12281421875804
+insertion	2992	0	0	54	316.2309871875081
+insertion	2993	0	0	63	316.2283162500081
+insertion	2994	0	0	44	316.2603675000081
+insertion	2995	0	0	68	316.55149968750834
+insertion	2996	0	0	61	316.56752531250834
+insertion	2997	0	0	53	316.57286718750834
+insertion	2998	0	0	37	316.9080698437585
+insertion	2999	0	0	65	317.5664559375086
+insertion	3001	0	0	61	317.4355800000086
+insertion	3002	0	0	80	317.0042235937585
+insertion	3000	0	0	68	317.8615945312586
+insertion	3003	0	0	68	317.9630901562586
+insertion	3004	0	0	73	318.2769253125086
+insertion	3005	0	0	80	318.7042753125086
+insertion	3006	0	0	77	318.3824273437586
+insertion	3007	0	0	70	318.3984529687586
+insertion	3008	0	0	80	318.82580296875864
+insertion	3009	0	0	66	319.2384628125087
+insertion	3011	0	0	63	319.12761890625865
+insertion	3010	0	0	70	319.5456206250088
+insertion	3015	0	0	82	319.2438046875087
+insertion	3012	0	0	75	319.98766078125885
+insertion	3013	0	0	70	319.6618064062588
+insertion	3014	0	0	72	320.08648546875884
+insertion	3016	0	0	78	320.0998401562589
+insertion	3017	0	0	84	320.3883014062589
+insertion	3018	0	0	84	320.5044871875089
+insertion	3020	0	0	65	320.8076385937589
+insertion	3019	0	0	68	320.9438564062589
+insertion	3021	0	0	72	321.2456723437589
+insertion	3022	0	0	72	321.3778837500089
+insertion	3023	0	0	85	320.9638884375089
+insertion	3024	0	0	77	321.7184282812589
+insertion	3025	0	0	73	321.8199239062589
+insertion	3026	0	0	80	321.8386204687589
+insertion	3027	0	0	85	322.1805004687589
+insertion	3028	0	0	89	322.3167182812589
+insertion	3029	0	0	77	323.7323151562589
+insertion	3030	0	0	49	323.4011189062589
+insertion	3031	0	0	37	323.4118026562589
+insertion	3032	0	0	82	323.83781718750896
+insertion	3033	0	0	89	324.15565875000897
+insertion	3034	0	0	89	324.274515468759
+insertion	3035	0	0	48	324.275850937509
+insertion	3036	0	0	36	324.26249625000895
+insertion	3039	0	0	88	324.7218975000092
+insertion	3037	0	0	49	325.16126671875924
+insertion	3038	0	0	77	325.45373437500945
+insertion	3041	0	0	37	325.1519184375092
+insertion	3040	0	0	82	325.5846103125095
+insertion	3042	0	0	89	325.8944390625095
+insertion	3043	0	0	36	326.01196031250953
+insertion	3044	0	0	48	326.01863765625956
+insertion	3045	0	0	89	326.0079539062595
+insertion	3046	0	0	36	326.1254751562596
+insertion	3048	0	0	88	326.46201328125983
+insertion	3047	0	0	49	326.9120662500099
+insertion	3049	0	0	37	326.9254209375099
+insertion	3050	0	0	82	327.23257875001013
+insertion	3051	0	0	89	327.33540984376026
+insertion	3052	0	0	94	327.6425676562603
+insertion	3053	0	0	94	327.75608250001045
+insertion	3054	0	0	36	327.7654307812605
+insertion	3055	0	0	48	327.9043195312607
+insertion	3056	0	0	36	328.06858218751086
+insertion	3057	0	0	48	328.183432500011
+insertion	3058	0	0	36	328.331669531261
+insertion	3059	0	0	48	328.458539062511
+insertion	3060	0	0	94	328.179426093761
+insertion	3061	0	0	36	328.59742781251106
+insertion	3062	0	0	48	328.7229618750111
+insertion	3063	0	0	91	328.90191468751107
+insertion	3064	0	0	36	328.89390187501107
+insertion	3065	0	0	93	329.0007393750111
+insertion	3066	0	0	48	329.0034103125111
+insertion	3067	0	0	36	329.1676729687611
+insertion	3068	0	0	96	329.2544784375111
+insertion	3069	0	0	48	329.27451046876115
+insertion	3070	0	0	82	329.4187410937613
+insertion	3071	0	0	79	329.41740562501127
+insertion	3072	0	0	91	329.4093928125112
+insertion	3073	0	0	36	329.4053864062612
+insertion	3074	0	0	48	329.5375978125114
+insertion	3075	0	0	88	329.6885057812615
+insertion	3076	0	0	36	329.6898412500115
+insertion	3077	0	0	81	329.8086979687616
+insertion	3078	0	0	89	329.8153753125116
+insertion	3079	0	0	48	329.8113689062616
+insertion	3080	0	0	36	329.94758671876167
+insertion	3081	0	0	93	330.0891464062617
+insertion	3082	0	0	48	330.0717853125117
+insertion	3083	0	0	76	330.22269328126185
+insertion	3084	0	0	79	330.22536421876185
+insertion	3085	0	0	84	330.2213578125118
+insertion	3086	0	0	36	330.2093385937618
+insertion	3087	0	0	48	330.325524375012
+insertion	3088	0	0	79	330.496464375012
+insertion	3089	0	0	76	330.50047078126204
+insertion	3090	0	0	84	330.499135312512
+insertion	3091	0	0	36	330.492457968762
+insertion	3093	0	0	48	330.6073082812621
+insertion	3092	0	0	74	330.6219984375121
+insertion	3094	0	0	77	330.6406950000121
+insertion	3095	0	0	83	330.6179920312621
+insertion	3096	0	0	36	330.68343000001215
+insertion	3097	0	0	48	330.7902675000122
+insertion	3098	0	0	76	330.91446609376226
+insertion	3099	0	0	79	330.9211434375123
+insertion	3100	0	0	82	330.90511781251223
+insertion	3101	0	0	70	330.9465173437623
+insertion	3102	0	0	70	331.0199681250124
+insertion	3103	0	0	75	331.06537406251243
+insertion	3104	0	0	82	331.0172971875124
+insertion	3105	0	0	76	331.03599375001244
+insertion	3106	0	0	48	331.01596171876236
+insertion	3107	0	0	60	331.1575214062625
+insertion	3108	0	0	79	331.0346582812624
+insertion	3109	0	0	48	331.3030875000125
+insertion	3110	0	0	76	331.4566664062626
+insertion	3111	0	0	79	331.46601468751265
+insertion	3112	0	0	60	331.4620082812626
+insertion	3113	0	0	70	331.4526600000126
+insertion	3114	0	0	48	331.6155871875127
+insertion	3115	0	0	60	331.7357793750127
+insertion	3116	0	0	48	331.86531984376273
+insertion	3117	0	0	82	331.45132453126257
+insertion	3118	0	0	60	331.9855120312627
+insertion	3119	0	0	48	332.16446484376274
+insertion	3120	0	0	79	332.15111015626275
+insertion	3121	0	0	60	332.2646250000128
+insertion	3122	0	0	48	332.4021782812628
+insertion	3123	0	0	60	332.52370593751283
+insertion	3124	0	0	81	332.25661218751276
+insertion	3125	0	0	84	332.57044734376285
+insertion	3126	0	0	70	332.84421843751306
+insertion	3127	0	0	79	332.67461390626295
+insertion	3128	0	0	67	332.9577332812631
+insertion	3129	0	0	60	332.69598140626294
+insertion	3130	0	0	76	332.9550623437631
+insertion	3131	0	0	77	333.0458742187631
+insertion	3132	0	0	69	333.05255156251314
+insertion	3133	0	0	60	333.1967821875133
+insertion	3134	0	0	72	333.34368375001327
+insertion	3135	0	0	81	333.3249871875133
+insertion	3136	0	0	72	333.4291537500133
+insertion	3137	0	0	64	333.44117296876334
+insertion	3138	0	0	60	333.57338437501346
+insertion	3139	0	0	67	333.70960218751344
+insertion	3140	0	0	72	333.72562781251344
+insertion	3141	0	0	71	333.8284589062635
+insertion	3142	0	0	62	333.8097623437635
+insertion	3143	0	0	60	333.9152643750136
+insertion	3144	0	0	65	333.9793668750136
+insertion	3145	0	0	70	334.1516423437637
+insertion	3146	0	0	67	334.15030687501365
+insertion	3147	0	0	48	334.2464606250137
+insertion	3148	0	0	36	334.2544734375137
+insertion	3149	0	0	58	334.2638217187637
+insertion	3150	0	0	64	334.26515718751375
+insertion	3151	0	0	70	334.2518025000137
+insertion	3152	0	0	67	334.2558089062637
+insertion	3153	0	0	58	334.83540234376386
+insertion	3154	0	0	55	335.650038281264
+insertion	3155	0	0	57	335.75153390626406
+insertion	3156	0	0	60	336.07071093751404
+insertion	3157	0	0	57	336.1588518750141
+insertion	3158	0	0	65	335.738179218764
+insertion	3159	0	0	53	336.4673451562641
+insertion	3160	0	0	62	336.4806998437641
+insertion	3161	0	0	55	336.5928792187642
+insertion	3162	0	0	64	336.5862018750142
+insertion	3163	0	0	67	336.90537890626433
+insertion	3164	0	0	58	336.91472718751436
+insertion	3165	0	0	70	336.5875373437642
+insertion	3166	0	0	60	337.0015326562644
+insertion	3167	0	0	55	337.0188937500144
+insertion	3168	0	0	67	337.2886584375144
+insertion	3169	0	0	52	337.30334859376444
+insertion	3170	0	0	53	337.4195343750145
+insertion	3171	0	0	69	337.42086984376454
+insertion	3172	0	0	57	337.7120020312646
+insertion	3173	0	0	72	337.73604046876466
+insertion	3175	0	0	77	337.4195343750145
+insertion	3174	0	0	68	337.8455489062647
+insertion	3176	0	0	50	337.83620062501467
+insertion	3177	0	0	67	338.1046298437647
+insertion	3178	0	0	74	338.11664906251474
+insertion	3179	0	0	47	338.1099717187647
+insertion	3180	0	0	75	338.29159546876485
+insertion	3181	0	0	48	338.2889245312648
+insertion	3182	0	0	79	338.59207593751495
+insertion	3183	0	0	51	338.614778906265
+insertion	3184	0	0	87	338.2902600000148
+insertion	3185	0	0	78	338.713603593765
+insertion	3186	0	0	48	338.72562281251504
+insertion	3187	0	0	84	339.0140840625151
+insertion	3188	0	0	45	338.9940520312651
+insertion	3189	0	0	46	339.1102378125151
+insertion	3190	0	0	86	339.1249279687652
+insertion	3191	0	0	89	339.41739562501533
+insertion	3192	0	0	50	339.3973635937653
+insertion	3193	0	0	46	339.5082075000154
+insertion	3195	0	0	77	339.1275989062652
+insertion	3194	0	0	86	339.5188912500154
+insertion	3196	0	0	82	339.8046815625156
+insertion	3197	0	0	43	339.8046815625156
+insertion	3198	0	0	84	339.8994998437657
+insertion	3199	0	0	86	340.1786128125158
+insertion	3200	0	0	45	339.9075126562657
+insertion	3201	0	0	74	340.2053221875158
+insertion	3202	0	0	77	340.1786128125158
+insertion	3203	0	0	46	340.1866256250158
+insertion	3204	0	0	48	340.3175015625159
+insertion	3205	0	0	72	340.32551437501587
+insertion	3206	0	0	77	340.3321917187659
+insertion	3207	0	0	81	340.3335271875159
+insertion	3208	0	0	60	340.663387968766
+insertion	3209	0	0	76	340.642020468766
+insertion	3210	0	0	79	340.644691406266
+insertion	3211	0	0	60	340.7408451562661
+insertion	3212	0	0	72	340.75286437501615
+insertion	3213	0	0	81	340.7368387500161
+insertion	3214	0	0	79	341.10809906251626
+insertion	3215	0	0	82	341.09474437501626
+insertion	3216	0	0	48	341.1094345312663
+insertion	3217	0	0	81	341.21093015626633
+insertion	3218	0	0	77	341.2162720312663
+insertion	3219	0	0	41	341.21760750001636
+insertion	3220	0	0	67	341.7063890625167
+insertion	3221	0	0	70	341.6903634375166
+insertion	3222	0	0	69	341.8706517187668
+insertion	3223	0	0	72	341.8706517187668
+insertion	3224	0	0	70	342.189828750017
+insertion	3225	0	0	74	342.172467656267
+insertion	3226	0	0	72	342.2873179687671
+insertion	3227	0	0	89	341.85863250001677
+insertion	3228	0	0	69	342.2833115625171
+insertion	3229	0	0	70	342.5490698437673
+insertion	3230	0	0	74	342.55174078126737
+insertion	3231	0	0	88	342.5717728125174
+insertion	3232	0	0	76	342.6986423437676
+insertion	3233	0	0	72	342.6933004687676
+insertion	3234	0	0	86	342.7133325000176
+insertion	3235	0	0	84	342.96707156251773
+insertion	3236	0	0	77	342.97107796876776
+insertion	3237	0	0	74	342.99244546876776
+insertion	3238	0	0	84	343.10195390626797
+insertion	3239	0	0	76	343.119315000018
+insertion	3240	0	0	79	343.120650468768
+insertion	3241	0	0	77	343.42780828126837
+insertion	3242	0	0	81	343.4144535937683
+insertion	3243	0	0	29	343.5760453125185
+insertion	3244	0	0	41	343.5947418750185
+insertion	3245	0	0	43	343.8578292187687
+insertion	3246	0	0	31	343.8952223437687
+insertion	3247	0	0	45	343.9780214062688
+insertion	3248	0	0	33	343.9780214062688
+insertion	3249	0	0	82	343.5947418750185
+insertion	3251	0	0	79	343.5987482812685
+insertion	3250	0	0	46	344.243779687519
+insertion	3252	0	0	34	344.25980531251906
+insertion	3253	0	0	48	344.3706492187692
+insertion	3254	0	0	36	344.3733201562692
+insertion	3255	0	0	81	344.3653073437692
+insertion	3256	0	0	77	344.3733201562692
+insertion	3257	0	0	50	344.65643953126926
+insertion	3258	0	0	38	344.65911046876926
+insertion	3259	0	0	50	344.8113539062693
+insertion	3260	0	0	52	344.7686189062693
+insertion	3261	0	0	40	344.7766317187693
+insertion	3262	0	0	38	344.8006701562693
+insertion	3263	0	0	70	344.7739607812693
+insertion	3264	0	0	79	344.7712898437693
+insertion	3265	0	0	53	345.0490673437695
+insertion	3266	0	0	41	345.0490673437695
+insertion	3267	0	0	43	345.17059500001966
+insertion	3268	0	0	55	345.16925953126963
+insertion	3269	0	0	57	345.4430306250198
+insertion	3270	0	0	45	345.4443660937698
+insertion	3273	0	0	69	345.1839496875197
+insertion	3276	0	0	77	345.1826142187697
+insertion	3271	0	0	46	345.5845903125199
+insertion	3272	0	0	58	345.58058390626985
+insertion	3274	0	0	59	345.84100031252
+insertion	3275	0	0	47	345.83966484377
+insertion	3277	0	0	60	345.9665343750201
+insertion	3278	0	0	48	345.9665343750201
+insertion	3279	0	0	51	346.0653590625202
+insertion	3280	0	0	48	346.27102125002045
+insertion	3281	0	0	67	345.97855359377013
+insertion	3282	0	0	36	346.2643439062704
+insertion	3283	0	0	76	345.9772181250201
+insertion	3284	0	0	29	346.5795145312706
+insertion	3285	0	0	41	346.5901982812706
+insertion	3286	0	0	65	346.71039046877064
+insertion	3287	0	0	69	346.6035529687706
+insertion	3288	0	0	70	346.9067043750207
+insertion	3289	0	0	72	347.1310631250207
+insertion	3294	0	0	89	347.1337340625207
+insertion	3290	0	0	69	347.26461000002075
+insertion	3291	0	0	74	347.39014406252085
+insertion	3292	0	0	72	347.507665312521
+insertion	3293	0	0	69	347.65189593752115
+insertion	3295	0	0	74	347.77208812502124
+insertion	3296	0	0	88	347.78277187502124
+insertion	3297	0	0	76	347.8922803125214
+insertion	3298	0	0	72	348.0164789062715
+insertion	3299	0	0	86	347.9002931250214
+insertion	3300	0	0	77	348.1713932812716
+insertion	3301	0	0	84	348.1593740625216
+insertion	3302	0	0	84	348.2982628125217
+insertion	3303	0	0	76	348.4237968750218
+insertion	3304	0	0	79	348.2982628125217
+insertion	3305	0	0	77	348.5773757812718
+insertion	3306	0	0	81	348.5666920312718
+insertion	3307	0	0	29	348.7763606250218
+insertion	3308	0	0	41	348.9085720312719
+insertion	3309	0	0	31	348.999383906272
+insertion	3310	0	0	43	349.10755687502206
+insertion	3311	0	0	33	349.1823431250221
+insertion	3312	0	0	45	349.27048406252226
+insertion	3314	0	0	82	348.7977281250218
+insertion	3316	0	0	79	348.8164246875218
+insertion	3313	0	0	34	349.37465062502235
+insertion	3315	0	0	46	349.44810140627243
+insertion	3317	0	0	36	349.5856546875225
+insertion	3318	0	0	81	349.6056867187725
+insertion	3319	0	0	77	349.60969312502255
+insertion	3320	0	0	48	349.69249218752265
+insertion	3321	0	0	38	349.78864593752274
+insertion	3322	0	0	50	349.88747062502273
+insertion	3323	0	0	40	349.99564359377274
+insertion	3324	0	0	52	350.09446828127284
+insertion	3325	0	0	41	350.1986348437729
+insertion	3326	0	0	70	350.0276948437728
+insertion	3327	0	0	79	350.01834656252277
+insertion	3328	0	0	53	350.3121496875229
+insertion	3329	0	0	43	350.4229935937729
+insertion	3330	0	0	55	350.53650843752297
+insertion	3331	0	0	45	350.627320312523
+insertion	3332	0	0	57	350.73148687502305
+insertion	3333	0	0	46	350.8276406250231
+insertion	3334	0	0	69	350.4363482812729
+insertion	3336	0	0	77	350.4336773437729
+insertion	3335	0	0	58	350.9197879687731
+insertion	3337	0	0	47	351.02395453127315
+insertion	3338	0	0	59	351.1254501562732
+insertion	3339	0	0	67	351.23896500002326
+insertion	3340	0	0	47	351.28437093752325
+insertion	3341	0	0	76	351.23228765627323
+insertion	3342	0	0	48	351.23629406252326
+insertion	3343	0	0	60	351.3217640625233
+insertion	3344	0	0	58	351.5127360937733
+insertion	3345	0	0	46	351.4432917187733
+insertion	3346	0	0	45	351.69035343752336
+insertion	3347	0	0	96	351.68100515627333
+insertion	3348	0	0	84	351.68100515627333
+insertion	3349	0	0	57	351.6796696875233
+insertion	3350	0	0	65	352.66925203127346
+insertion	3351	0	0	72	352.67192296877346
+insertion	3352	0	0	60	352.6786003125235
+insertion	3353	0	0	63	352.67192296877346
+insertion	3354	0	0	57	352.67459390627346
+insertion	3355	0	0	75	352.66391015627346
+insertion	3356	0	0	70	353.69088562502367
+insertion	3357	0	0	58	353.68955015627364
+insertion	3358	0	0	74	353.68153734377364
+insertion	3359	0	0	62	353.6948920312737
+insertion	3360	0	0	65	353.6975629687737
+insertion	3361	0	0	70	353.9993789062739
+insertion	3362	0	0	74	353.9993789062739
+insertion	3363	0	0	58	354.0073917187739
+insertion	3364	0	0	60	354.0928617187739
+insertion	3365	0	0	65	354.10488093752394
+insertion	3366	0	0	69	354.10488093752394
+insertion	3367	0	0	72	354.0915262500239
+insertion	3368	0	0	69	354.381322968774
+insertion	3369	0	0	65	354.39868406252407
+insertion	3370	0	0	60	354.38666484377404
+insertion	3371	0	0	72	354.382658437524
+insertion	3372	0	0	71	354.48148312502417
+insertion	3373	0	0	68	354.48949593752417
+insertion	3374	0	0	62	354.5068570312742
+insertion	3375	0	0	70	354.7752862500243
+insertion	3376	0	0	64	354.7979892187743
+insertion	3377	0	0	69	354.8794528125244
+insertion	3378	0	0	65	354.8874656250244
+insertion	3379	0	0	81	355.17459140627443
+insertion	3380	0	0	72	355.18393968752446
+insertion	3381	0	0	60	355.18928156252446
+insertion	3382	0	0	77	355.1932879687745
+insertion	3383	0	0	72	355.28677078127464
+insertion	3384	0	0	77	355.29211265627464
+insertion	3385	0	0	81	355.2774225000246
+insertion	3386	0	0	60	355.2734160937746
+insertion	3387	0	0	71	355.5725610937747
+insertion	3388	0	0	77	355.57656750002474
+insertion	3389	0	0	80	355.5752320312747
+insertion	3390	0	0	70	355.67138578127486
+insertion	3391	0	0	77	355.6914178125249
+insertion	3392	0	0	60	355.6914178125249
+insertion	3393	0	0	79	355.6753921875249
+insertion	3394	0	0	76	355.94115046877494
+insertion	3395	0	0	60	355.94248593752496
+insertion	3396	0	0	84	355.94248593752496
+insertion	3397	0	0	69	356.05199437502506
+insertion	3398	0	0	65	356.0560007812751
+insertion	3399	0	0	77	356.0693554687751
+insertion	3400	0	0	62	356.3685004687751
+insertion	3401	0	0	60	356.47533796877514
+insertion	3402	0	0	60	356.77448296877515
+insertion	3403	0	0	69	356.77448296877515
+insertion	3404	0	0	48	356.77982484377515
+insertion	3405	0	0	65	356.7865021875252
+insertion	3406	0	0	60	356.87330765627524
+insertion	3408	0	0	48	356.87063671877524
+insertion	3407	0	0	69	356.8746431250253
+insertion	3409	0	0	59	357.15509156252546
+insertion	3410	0	0	65	357.1590979687755
+insertion	3411	0	0	68	357.15509156252546
+insertion	3412	0	0	67	357.2565871875256
+insertion	3413	0	0	58	357.2672709375256
+insertion	3414	0	0	48	357.27661921877564
+insertion	3415	0	0	64	357.27661921877564
+insertion	3416	0	0	58	357.5784351562757
+insertion	3417	0	0	76	357.5717578125257
+insertion	3418	0	0	72	357.58244156252573
+insertion	3419	0	0	48	357.5757642187757
+insertion	3420	0	0	72	357.6946209375258
+insertion	3421	0	0	77	357.6826017187758
+insertion	3422	0	0	57	357.68126625002577
+insertion	3423	0	0	53	357.6839371875258
+insertion	3424	0	0	74	357.9657210937759
+insertion	3425	0	0	72	358.06855218752594
+insertion	3426	0	0	69	358.37838093752595
+insertion	3427	0	0	81	358.38639375002595
+insertion	3428	0	0	48	358.38639375002595
+insertion	3429	0	0	60	358.37838093752595
+insertion	3430	0	0	77	358.37838093752595
+insertion	3431	0	0	71	358.46919281252605
+insertion	3432	0	0	67	358.50658593752615
+insertion	3433	0	0	60	358.4852184375261
+insertion	3434	0	0	77	358.50124406252615
+insertion	3435	0	0	81	358.4798765625261
+insertion	3436	0	0	69	358.48655390627613
+insertion	3437	0	0	48	358.49056031252616
+insertion	3438	0	0	79	358.5239470312762
+insertion	3439	0	0	76	358.53463078127623
+insertion	3440	0	0	80	358.8017245312763
+insertion	3441	0	0	68	358.8043954687763
+insertion	3442	0	0	48	358.7963826562763
+insertion	3443	0	0	36	358.8043954687763
+insertion	3444	0	0	67	358.8925364062764
+insertion	3445	0	0	69	358.9366068750264
+insertion	3446	0	0	36	358.9112329687764
+insertion	3447	0	0	79	358.8912009375264
+insertion	3448	0	0	48	358.9085620312764
+insertion	3449	0	0	48	359.25177750002655
+insertion	3450	0	0	76	359.2691385937766
+insertion	3451	0	0	36	359.25979031252655
+insertion	3452	0	0	79	359.25711937502655
+insertion	3453	0	0	88	359.25444843752655
+insertion	3454	0	0	77	359.4400785937766
+insertion	3455	0	0	29	359.4293948437766
+insertion	3456	0	0	81	359.4267239062766
+insertion	3457	0	0	41	359.4267239062766
+insertion	3458	0	0	89	359.4347367187766
